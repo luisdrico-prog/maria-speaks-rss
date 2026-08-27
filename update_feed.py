@@ -3,6 +3,7 @@ from __future__ import annotations
 
 import json
 import os
+import time
 from datetime import datetime, timezone, timedelta
 from email.utils import format_datetime
 from pathlib import Path
@@ -14,7 +15,6 @@ from yt_dlp import YoutubeDL
 CHANNEL_HANDLE = os.getenv("CHANNEL_HANDLE", "mariaspeaksenglish").lstrip("@")
 CHANNEL_URL = f"https://www.youtube.com/@{CHANNEL_HANDLE}"
 TABS = {
-    "Canal": CHANNEL_URL,
     "Vídeo": f"{CHANNEL_URL}/videos",
     "Short": f"{CHANNEL_URL}/shorts",
     "Directo": f"{CHANNEL_URL}/streams",
@@ -23,6 +23,13 @@ TABS = {
 RECENT_KEEP = int(os.getenv("RECENT_KEEP", "75"))
 BACKFILL_BATCH = int(os.getenv("BACKFILL_BATCH", "100"))
 BACKFILL_HOLD_HOURS = int(os.getenv("BACKFILL_HOLD_HOURS", "24"))
+
+# Exact metadata enrichment. On each run we visit a limited number of watch
+# pages and cache the real upload date in catalog.json. At 90/run and one run
+# every 6 h, a ~300-video channel normally becomes fully dated within a day.
+DATE_ENRICH_BATCH = int(os.getenv("DATE_ENRICH_BATCH", "90"))
+DATE_RETRY_HOURS = int(os.getenv("DATE_RETRY_HOURS", "18"))
+DATE_ENRICH_SLEEP = float(os.getenv("DATE_ENRICH_SLEEP", "0.20"))
 
 ROOT = Path(__file__).resolve().parent
 CATALOG_PATH = ROOT / "catalog.json"
@@ -74,7 +81,7 @@ def entry_datetime(entry: dict[str, Any]) -> datetime | None:
     return None
 
 
-def normalize_entry(entry: dict[str, Any], kind: str) -> dict[str, Any] | None:
+def normalize_entry(entry: dict[str, Any], kind: str, position: int) -> dict[str, Any] | None:
     video_id = str(entry.get("id") or "").strip()
     if not video_id:
         return None
@@ -92,12 +99,17 @@ def normalize_entry(entry: dict[str, Any], kind: str) -> dict[str, Any] | None:
         "thumbnail": f"https://i.ytimg.com/vi/{video_id}/hqdefault.jpg",
         "kind": kind,
         "published": dt.isoformat() if dt else None,
+        "date_source": "tab_approximate" if dt else None,
         "duration": duration,
         "channel": entry.get("channel") or entry.get("uploader") or "Maria Speaks English",
+        "source_positions": {kind: position},
     }
 
 
 def extract_tab(kind: str, url: str) -> list[dict[str, Any]]:
+    # yt-dlp documents youtubetab:approximate_date for flat playlists. We keep
+    # it because it is cheap and useful for ordering when YouTube exposes it,
+    # but exact dates are subsequently cached from each video's watch page.
     opts = {
         "quiet": True,
         "no_warnings": True,
@@ -117,8 +129,8 @@ def extract_tab(kind: str, url: str) -> list[dict[str, Any]]:
         return []
 
     result: list[dict[str, Any]] = []
-    for raw in flatten_entries(info.get("entries") or []):
-        item = normalize_entry(raw, kind)
+    for position, raw in enumerate(flatten_entries(info.get("entries") or []), start=1):
+        item = normalize_entry(raw, kind, position)
         if item:
             result.append(item)
     return result
@@ -136,44 +148,193 @@ def parse_iso(value: str | None) -> datetime | None:
         return None
 
 
-def sort_key(item: dict[str, Any]) -> tuple[datetime, str]:
-    dt = parse_iso(item.get("published")) or datetime(1970, 1, 1, tzinfo=timezone.utc)
-    return (dt, item.get("id", ""))
+def best_source_position(item: dict[str, Any]) -> int:
+    positions = item.get("source_positions") or {}
+    values = [v for v in positions.values() if isinstance(v, int) and v > 0]
+    return min(values) if values else 10**9
+
+
+def sort_key(item: dict[str, Any]) -> tuple[int, float, int, str]:
+    dt = parse_iso(item.get("published"))
+    if dt:
+        return (1, dt.timestamp(), 0, item.get("id", ""))
+    # For still-undated entries, preserve YouTube tab recency rather than
+    # sorting by video id (which was the reason the first feed looked random).
+    return (0, 0.0, -best_source_position(item), item.get("id", ""))
+
+
+def merge_item(old: dict[str, Any], new: dict[str, Any]) -> dict[str, Any]:
+    merged = {**old, **new}
+
+    positions = dict(old.get("source_positions") or {})
+    positions.update(new.get("source_positions") or {})
+    merged["source_positions"] = positions
+
+    # An exact date obtained from the watch page must never be overwritten by
+    # a missing or approximate flat-playlist date.
+    if old.get("date_source") == "video_exact" and old.get("published"):
+        merged["published"] = old["published"]
+        merged["date_source"] = "video_exact"
+
+    if old.get("duration") is not None and new.get("duration") is None:
+        merged["duration"] = old["duration"]
+
+    for key in ("date_checked_at", "date_check_failures"):
+        if key in old and key not in merged:
+            merged[key] = old[key]
+
+    return merged
 
 
 def update_catalog() -> list[dict[str, Any]]:
-    previous = {item["id"]: item for item in load_json(CATALOG_PATH, []) if item.get("id")}
+    previous_list = [item for item in load_json(CATALOG_PATH, []) if item.get("id")]
+    previous = {item["id"]: item for item in previous_list}
     fresh: dict[str, dict[str, Any]] = {}
     failures: list[str] = []
 
     for kind, url in TABS.items():
         try:
             for item in extract_tab(kind, url):
-                old = previous.get(item["id"], {})
-                # Preserve an older exact/approximate date if a later extraction omits it.
-                if not item.get("published") and old.get("published"):
-                    item["published"] = old["published"]
-                fresh[item["id"]] = {**old, **item}
+                old = fresh.get(item["id"]) or previous.get(item["id"], {})
+                fresh[item["id"]] = merge_item(old, item)
         except Exception as exc:  # Keep the last known catalogue if YouTube blocks a tab.
             failures.append(f"{kind}: {exc}")
 
     if not fresh and previous:
         catalog = list(previous.values())
     else:
-        # Preserve previously discovered historical items even if a tab is temporarily incomplete.
         merged = dict(previous)
-        merged.update(fresh)
+        for video_id, item in fresh.items():
+            merged[video_id] = merge_item(merged.get(video_id, {}), item)
         catalog = list(merged.values())
 
     catalog.sort(key=sort_key, reverse=True)
-    save_json(CATALOG_PATH, catalog)
 
     if failures:
         print("Avisos de extracción:")
         for failure in failures:
             print(" -", failure)
-    print(f"Catálogo: {len(catalog)} elementos únicos")
+    print(f"Catálogo descubierto: {len(catalog)} elementos únicos")
     return catalog
+
+
+def should_retry_date(item: dict[str, Any], now: datetime) -> bool:
+    if item.get("date_source") == "video_exact" and item.get("published"):
+        return False
+    checked = parse_iso(item.get("date_checked_at"))
+    failures = int(item.get("date_check_failures") or 0)
+    if checked and failures and now - checked < timedelta(hours=DATE_RETRY_HOURS):
+        return False
+    return True
+
+
+def exact_metadata_from_info(info: dict[str, Any]) -> dict[str, Any]:
+    dt = entry_datetime(info)
+    result: dict[str, Any] = {}
+    if dt:
+        result["published"] = dt.isoformat()
+        result["date_source"] = "video_exact"
+
+    duration = info.get("duration")
+    if isinstance(duration, (int, float)):
+        result["duration"] = duration
+
+    title = info.get("title")
+    if isinstance(title, str) and title.strip():
+        result["title"] = title.strip()
+
+    channel = info.get("channel") or info.get("uploader")
+    if isinstance(channel, str) and channel.strip():
+        result["channel"] = channel.strip()
+
+    thumbnail = info.get("thumbnail")
+    if isinstance(thumbnail, str) and thumbnail.startswith("http"):
+        result["thumbnail"] = thumbnail
+
+    return result
+
+
+def enrichment_priority(
+    catalog: list[dict[str, Any]],
+    preferred_ids: list[str],
+) -> list[dict[str, Any]]:
+    by_id = {item["id"]: item for item in catalog}
+    ordered: list[dict[str, Any]] = []
+    seen: set[str] = set()
+
+    # First correct whatever Feedly is currently seeing (recent + active batch).
+    for video_id in preferred_ids:
+        item = by_id.get(video_id)
+        if item and video_id not in seen:
+            ordered.append(item)
+            seen.add(video_id)
+
+    # Then work from the newest tab positions toward the oldest. This makes the
+    # current end of the channel accurate before the historical tail.
+    rest = [item for item in catalog if item["id"] not in seen]
+    rest.sort(key=lambda x: (best_source_position(x), x.get("kind", ""), x.get("id", "")))
+    ordered.extend(rest)
+    return ordered
+
+
+def enrich_exact_dates(catalog: list[dict[str, Any]], preferred_ids: list[str]) -> None:
+    now = now_utc()
+    candidates = [
+        item
+        for item in enrichment_priority(catalog, preferred_ids)
+        if should_retry_date(item, now)
+    ][:DATE_ENRICH_BATCH]
+
+    if not candidates:
+        exact_count = sum(1 for item in catalog if item.get("date_source") == "video_exact")
+        print(f"Fechas exactas: {exact_count}/{len(catalog)} (sin pendientes elegibles en esta ejecución)")
+        return
+
+    opts = {
+        "quiet": True,
+        "no_warnings": True,
+        "skip_download": True,
+        "ignoreerrors": True,
+        "noplaylist": True,
+        "socket_timeout": 30,
+        "retries": 2,
+        "fragment_retries": 1,
+    }
+
+    success = 0
+    failed = 0
+    print(f"Enriqueciendo fechas reales: hasta {len(candidates)} vídeos...")
+
+    with YoutubeDL(opts) as ydl:
+        for index, item in enumerate(candidates, start=1):
+            try:
+                info = ydl.extract_info(item["url"], download=False)
+                if not info:
+                    raise RuntimeError("yt-dlp no devolvió metadatos")
+
+                exact = exact_metadata_from_info(info)
+                if exact.get("published"):
+                    item.update(exact)
+                    item["date_checked_at"] = now_utc().isoformat()
+                    item["date_check_failures"] = 0
+                    success += 1
+                else:
+                    item["date_checked_at"] = now_utc().isoformat()
+                    item["date_check_failures"] = int(item.get("date_check_failures") or 0) + 1
+                    failed += 1
+            except Exception as exc:
+                item["date_checked_at"] = now_utc().isoformat()
+                item["date_check_failures"] = int(item.get("date_check_failures") or 0) + 1
+                failed += 1
+                print(f"  Aviso fecha {item['id']}: {exc}")
+
+            if index % 15 == 0 or index == len(candidates):
+                print(f"  Progreso fechas: {index}/{len(candidates)}; correctas {success}; fallos {failed}")
+            if DATE_ENRICH_SLEEP > 0:
+                time.sleep(DATE_ENRICH_SLEEP)
+
+    exact_count = sum(1 for item in catalog if item.get("date_source") == "video_exact")
+    print(f"Fechas exactas acumuladas: {exact_count}/{len(catalog)}")
 
 
 def choose_feed_items(catalog: list[dict[str, Any]]) -> tuple[list[dict[str, Any]], dict[str, Any]]:
@@ -245,7 +406,7 @@ def build_feed(items: list[dict[str, Any]], state: dict[str, Any]) -> None:
     ET.SubElement(channel, "link").text = CHANNEL_URL
     ET.SubElement(channel, "description").text = (
         "Feed histórico y actualizado de Maria Speaks English: vídeos, Shorts y directos. "
-        "Incluye relleno histórico rotatorio para facilitar que Feedly indexe el catálogo antiguo."
+        "Conserva la fecha original de publicación y usa relleno histórico rotatorio para Feedly."
     )
     ET.SubElement(channel, "language").text = "es"
     ET.SubElement(channel, "lastBuildDate").text = format_datetime(now_utc())
@@ -269,7 +430,10 @@ def build_feed(items: list[dict[str, Any]], state: dict[str, Any]) -> None:
         duration = format_duration(data.get("duration"))
         parts = [f"<p><strong>{data.get('kind') or 'YouTube'}</strong></p>"]
         if published:
-            parts.append(f"<p>Publicado originalmente: {published.strftime('%d/%m/%Y')}</p>")
+            precision = "fecha real" if data.get("date_source") == "video_exact" else "fecha aproximada"
+            parts.append(
+                f"<p>Publicado originalmente: {published.strftime('%d/%m/%Y')} ({precision})</p>"
+            )
         if duration:
             parts.append(f"<p>Duración: {duration}</p>")
         parts.append(f"<p><a href=\"{data['url']}\">Abrir en YouTube</a></p>")
@@ -291,8 +455,22 @@ def main() -> None:
     catalog = update_catalog()
     if not catalog:
         raise SystemExit("No se pudo obtener ningún elemento de YouTube y no existe catálogo previo.")
+
+    # Select what Feedly should see, then give those IDs top priority for exact
+    # date enrichment. The same GUID is preserved, so updating pubDate does not
+    # create a second item.
     feed_items, state = choose_feed_items(catalog)
-    build_feed(feed_items, state)
+    preferred_ids = [item["id"] for item in feed_items]
+    enrich_exact_dates(catalog, preferred_ids)
+
+    # Exact dates can change the chronological order. Re-sort and rebuild the
+    # chosen feed with the same IDs, then cache the improved catalogue.
+    catalog.sort(key=sort_key, reverse=True)
+    save_json(CATALOG_PATH, catalog)
+    by_id = {item["id"]: item for item in catalog}
+    refreshed_feed_items = [by_id[item["id"]] for item in feed_items if item["id"] in by_id]
+    refreshed_feed_items.sort(key=sort_key, reverse=True)
+    build_feed(refreshed_feed_items, state)
 
 
 if __name__ == "__main__":
