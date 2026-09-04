@@ -5,7 +5,7 @@
     <link>https://www.youtube.com/@mariaspeaksenglish</link>
     <description>Feed histórico y actualizado de Maria Speaks English: vídeos, Shorts y directos. Conserva la fecha original de publicación y usa relleno histórico rotatorio para Feedly.</description>
     <language>es</language>
-    <lastBuildDate>Fri, 04 Sep 2026 12:33:21 +0000</lastBuildDate>
+    <lastBuildDate>Fri, 04 Sep 2026 18:27:35 +0000</lastBuildDate>
     <atom:link href="feed.xml" rel="self" type="application/rss+xml" />
     <item>
       <title>❌¡NO pronuncies CAMBRIDGE así! | Mini Pronunciation Lesson</title>
@@ -15,6 +15,14 @@
       <pubDate>Tue, 01 Oct 2024 00:00:00 +0000</pubDate>
       <description>&lt;p&gt;&lt;strong&gt;Short&lt;/strong&gt;&lt;/p&gt;&lt;p&gt;Publicado originalmente: 01/10/2024 (fecha real)&lt;/p&gt;&lt;p&gt;Duración: 0:18&lt;/p&gt;&lt;p&gt;&lt;a href="https://www.youtube.com/watch?v=LhLtOaa1wjs"&gt;Abrir en YouTube&lt;/a&gt;&lt;/p&gt;</description>
       <media:thumbnail url="https://i.ytimg.com/vi/LhLtOaa1wjs/hqdefault.jpg" />
+    </item>
+    <item>
+      <title>MINIMAL PAIRS in English with TAYLOR SWIFT 🤯</title>
+      <link>https://www.youtube.com/watch?v=JGIamWyiQWo</link>
+      <guid isPermaLink="false">youtube:JGIamWyiQWo</guid>
+      <category>Short</category>
+      <description>&lt;p&gt;&lt;strong&gt;Short&lt;/strong&gt;&lt;/p&gt;&lt;p&gt;&lt;a href="https://www.youtube.com/watch?v=JGIamWyiQWo"&gt;Abrir en YouTube&lt;/a&gt;&lt;/p&gt;</description>
+      <media:thumbnail url="https://i.ytimg.com/vi/JGIamWyiQWo/hqdefault.jpg" />
     </item>
     <item>
       <title>SHAKIRA’S next-level ENGLISH leaves me 🤯</title>
@@ -225,7 +233,7 @@
       <media:thumbnail url="https://i.ytimg.com/vi/chWmluB7wuM/hqdefault.jpg" />
     </item>
     <item>
-      <title>Cómo usar el SARCASMO en INGLÉS como Miranda Priestly | Devil Wears Prada 2</title>
+      <title>How to Use Sarcasm in English Like Miranda Priestly | The Devil Wears Prada 2</title>
       <link>https://www.youtube.com/watch?v=JFCtf_SUrU0</link>
       <guid isPermaLink="false">youtube:JFCtf_SUrU0</guid>
       <category>Short</category>
@@ -599,14 +607,6 @@
       <category>Short</category>
       <description>&lt;p&gt;&lt;strong&gt;Short&lt;/strong&gt;&lt;/p&gt;&lt;p&gt;&lt;a href="https://www.youtube.com/watch?v=UapgpHh7pwA"&gt;Abrir en YouTube&lt;/a&gt;&lt;/p&gt;</description>
       <media:thumbnail url="https://i.ytimg.com/vi/UapgpHh7pwA/hqdefault.jpg" />
-    </item>
-    <item>
-      <title>En esta playa caminas sobre el agua 🤯 | Explicado en inglés</title>
-      <link>https://www.youtube.com/watch?v=fkECny5uli0</link>
-      <guid isPermaLink="false">youtube:fkECny5uli0</guid>
-      <category>Short</category>
-      <description>&lt;p&gt;&lt;strong&gt;Short&lt;/strong&gt;&lt;/p&gt;&lt;p&gt;&lt;a href="https://www.youtube.com/watch?v=fkECny5uli0"&gt;Abrir en YouTube&lt;/a&gt;&lt;/p&gt;</description>
-      <media:thumbnail url="https://i.ytimg.com/vi/fkECny5uli0/hqdefault.jpg" />
     </item>
   </channel>
 </rss>
