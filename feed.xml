@@ -5,7 +5,7 @@
     <link>https://www.youtube.com/@mariaspeaksenglish</link>
     <description>Feed histórico y actualizado de Maria Speaks English: vídeos, Shorts y directos. Conserva la fecha original de publicación y usa relleno histórico rotatorio para Feedly.</description>
     <language>es</language>
-    <lastBuildDate>Sun, 13 Sep 2026 18:28:44 +0000</lastBuildDate>
+    <lastBuildDate>Mon, 14 Sep 2026 00:36:06 +0000</lastBuildDate>
     <atom:link href="feed.xml" rel="self" type="application/rss+xml" />
     <item>
       <title>❌¡NO pronuncies CAMBRIDGE así! | Mini Pronunciation Lesson</title>
@@ -15,6 +15,14 @@
       <pubDate>Tue, 01 Oct 2024 00:00:00 +0000</pubDate>
       <description>&lt;p&gt;&lt;strong&gt;Short&lt;/strong&gt;&lt;/p&gt;&lt;p&gt;Publicado originalmente: 01/10/2024 (fecha real)&lt;/p&gt;&lt;p&gt;Duración: 0:18&lt;/p&gt;&lt;p&gt;&lt;a href="https://www.youtube.com/watch?v=LhLtOaa1wjs"&gt;Abrir en YouTube&lt;/a&gt;&lt;/p&gt;</description>
       <media:thumbnail url="https://i.ytimg.com/vi/LhLtOaa1wjs/hqdefault.jpg" />
+    </item>
+    <item>
+      <title>B2 vs. C1 with Anne Hathaway 👀</title>
+      <link>https://www.youtube.com/watch?v=N9xT-6fidZ4</link>
+      <guid isPermaLink="false">youtube:N9xT-6fidZ4</guid>
+      <category>Short</category>
+      <description>&lt;p&gt;&lt;strong&gt;Short&lt;/strong&gt;&lt;/p&gt;&lt;p&gt;&lt;a href="https://www.youtube.com/watch?v=N9xT-6fidZ4"&gt;Abrir en YouTube&lt;/a&gt;&lt;/p&gt;</description>
+      <media:thumbnail url="https://i.ytimg.com/vi/N9xT-6fidZ4/hqdefault.jpg" />
     </item>
     <item>
       <title>Reacting to the LLANITO of GIBRALTAR 🤯</title>
@@ -201,7 +209,7 @@
       <media:thumbnail url="https://i.ytimg.com/vi/krgJiv3A3TY/hqdefault.jpg" />
     </item>
     <item>
-      <title>How I learned ENGLISH? | My story</title>
+      <title>¿Cómo aprendí INGLÉS? | Mi historia</title>
       <link>https://www.youtube.com/watch?v=liDswBwjVnY</link>
       <guid isPermaLink="false">youtube:liDswBwjVnY</guid>
       <category>Short</category>
@@ -599,14 +607,6 @@
       <category>Short</category>
       <description>&lt;p&gt;&lt;strong&gt;Short&lt;/strong&gt;&lt;/p&gt;&lt;p&gt;&lt;a href="https://www.youtube.com/watch?v=ePLzT96c9i4"&gt;Abrir en YouTube&lt;/a&gt;&lt;/p&gt;</description>
       <media:thumbnail url="https://i.ytimg.com/vi/ePLzT96c9i4/hqdefault.jpg" />
-    </item>
-    <item>
-      <title>Quick Trick for Your CAMBRIDGE SPEAKING Exam | Get Your English Certified With Me</title>
-      <link>https://www.youtube.com/watch?v=0m2g-FVnQw0</link>
-      <guid isPermaLink="false">youtube:0m2g-FVnQw0</guid>
-      <category>Short</category>
-      <description>&lt;p&gt;&lt;strong&gt;Short&lt;/strong&gt;&lt;/p&gt;&lt;p&gt;&lt;a href="https://www.youtube.com/watch?v=0m2g-FVnQw0"&gt;Abrir en YouTube&lt;/a&gt;&lt;/p&gt;</description>
-      <media:thumbnail url="https://i.ytimg.com/vi/0m2g-FVnQw0/hqdefault.jpg" />
     </item>
   </channel>
 </rss>
