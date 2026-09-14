@@ -5,7 +5,7 @@
     <link>https://www.youtube.com/@mariaspeaksenglish</link>
     <description>Feed histórico y actualizado de Maria Speaks English: vídeos, Shorts y directos. Conserva la fecha original de publicación y usa relleno histórico rotatorio para Feedly.</description>
     <language>es</language>
-    <lastBuildDate>Mon, 14 Sep 2026 12:35:09 +0000</lastBuildDate>
+    <lastBuildDate>Mon, 14 Sep 2026 18:31:04 +0000</lastBuildDate>
     <atom:link href="feed.xml" rel="self" type="application/rss+xml" />
     <item>
       <title>❌¡NO pronuncies CAMBRIDGE así! | Mini Pronunciation Lesson</title>
@@ -15,6 +15,14 @@
       <pubDate>Tue, 01 Oct 2024 00:00:00 +0000</pubDate>
       <description>&lt;p&gt;&lt;strong&gt;Short&lt;/strong&gt;&lt;/p&gt;&lt;p&gt;Publicado originalmente: 01/10/2024 (fecha real)&lt;/p&gt;&lt;p&gt;Duración: 0:18&lt;/p&gt;&lt;p&gt;&lt;a href="https://www.youtube.com/watch?v=LhLtOaa1wjs"&gt;Abrir en YouTube&lt;/a&gt;&lt;/p&gt;</description>
       <media:thumbnail url="https://i.ytimg.com/vi/LhLtOaa1wjs/hqdefault.jpg" />
+    </item>
+    <item>
+      <title>The REASON you DON'T understand native speakers | Connected Speech 👀</title>
+      <link>https://www.youtube.com/watch?v=4yh3SdoNkLc</link>
+      <guid isPermaLink="false">youtube:4yh3SdoNkLc</guid>
+      <category>Short</category>
+      <description>&lt;p&gt;&lt;strong&gt;Short&lt;/strong&gt;&lt;/p&gt;&lt;p&gt;&lt;a href="https://www.youtube.com/watch?v=4yh3SdoNkLc"&gt;Abrir en YouTube&lt;/a&gt;&lt;/p&gt;</description>
+      <media:thumbnail url="https://i.ytimg.com/vi/4yh3SdoNkLc/hqdefault.jpg" />
     </item>
     <item>
       <title>B2 vs. C1 with Anne Hathaway 👀</title>
@@ -481,7 +489,7 @@
       <media:thumbnail url="https://i.ytimg.com/vi/iXCGXOP2V18/hqdefault.jpg" />
     </item>
     <item>
-      <title>Analizamos el INGLÉS de TRAVIS KELCE ✨</title>
+      <title>We analyze TRAVIS KELCE'S ENGLISH ✨</title>
       <link>https://www.youtube.com/watch?v=KUvviNZsF4I</link>
       <guid isPermaLink="false">youtube:KUvviNZsF4I</guid>
       <category>Short</category>
@@ -553,7 +561,7 @@
       <media:thumbnail url="https://i.ytimg.com/vi/lTSrxqzivrg/hqdefault.jpg" />
     </item>
     <item>
-      <title>Mi opinión del INGLÉS de NIL OJEDA | El nivel de inglés en España</title>
+      <title>My opinion on NIL OJEDA'S ENGLISH | The level of English in Spain</title>
       <link>https://www.youtube.com/watch?v=xYncbUP786c</link>
       <guid isPermaLink="false">youtube:xYncbUP786c</guid>
       <category>Short</category>
@@ -599,14 +607,6 @@
       <category>Short</category>
       <description>&lt;p&gt;&lt;strong&gt;Short&lt;/strong&gt;&lt;/p&gt;&lt;p&gt;&lt;a href="https://www.youtube.com/watch?v=KCFAGU-ULWA"&gt;Abrir en YouTube&lt;/a&gt;&lt;/p&gt;</description>
       <media:thumbnail url="https://i.ytimg.com/vi/KCFAGU-ULWA/hqdefault.jpg" />
-    </item>
-    <item>
-      <title>Analyzing LIAM GALLAGHER'S MANCHESTER ACCENT | English Accent Series</title>
-      <link>https://www.youtube.com/watch?v=ePLzT96c9i4</link>
-      <guid isPermaLink="false">youtube:ePLzT96c9i4</guid>
-      <category>Short</category>
-      <description>&lt;p&gt;&lt;strong&gt;Short&lt;/strong&gt;&lt;/p&gt;&lt;p&gt;&lt;a href="https://www.youtube.com/watch?v=ePLzT96c9i4"&gt;Abrir en YouTube&lt;/a&gt;&lt;/p&gt;</description>
-      <media:thumbnail url="https://i.ytimg.com/vi/ePLzT96c9i4/hqdefault.jpg" />
     </item>
   </channel>
 </rss>
