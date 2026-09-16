@@ -5,7 +5,7 @@
     <link>https://www.youtube.com/@mariaspeaksenglish</link>
     <description>Feed histórico y actualizado de Maria Speaks English: vídeos, Shorts y directos. Conserva la fecha original de publicación y usa relleno histórico rotatorio para Feedly.</description>
     <language>es</language>
-    <lastBuildDate>Wed, 16 Sep 2026 12:34:01 +0000</lastBuildDate>
+    <lastBuildDate>Wed, 16 Sep 2026 18:30:29 +0000</lastBuildDate>
     <atom:link href="feed.xml" rel="self" type="application/rss+xml" />
     <item>
       <title>❌¡NO pronuncies CAMBRIDGE así! | Mini Pronunciation Lesson</title>
@@ -15,6 +15,14 @@
       <pubDate>Tue, 01 Oct 2024 00:00:00 +0000</pubDate>
       <description>&lt;p&gt;&lt;strong&gt;Short&lt;/strong&gt;&lt;/p&gt;&lt;p&gt;Publicado originalmente: 01/10/2024 (fecha real)&lt;/p&gt;&lt;p&gt;Duración: 0:18&lt;/p&gt;&lt;p&gt;&lt;a href="https://www.youtube.com/watch?v=LhLtOaa1wjs"&gt;Abrir en YouTube&lt;/a&gt;&lt;/p&gt;</description>
       <media:thumbnail url="https://i.ytimg.com/vi/LhLtOaa1wjs/hqdefault.jpg" />
+    </item>
+    <item>
+      <title>¿Es Dolly Parton la Lola Flores de Estados Unidos? 🇺🇸👀</title>
+      <link>https://www.youtube.com/watch?v=LL4RYue0Y30</link>
+      <guid isPermaLink="false">youtube:LL4RYue0Y30</guid>
+      <category>Short</category>
+      <description>&lt;p&gt;&lt;strong&gt;Short&lt;/strong&gt;&lt;/p&gt;&lt;p&gt;&lt;a href="https://www.youtube.com/watch?v=LL4RYue0Y30"&gt;Abrir en YouTube&lt;/a&gt;&lt;/p&gt;</description>
+      <media:thumbnail url="https://i.ytimg.com/vi/LL4RYue0Y30/hqdefault.jpg" />
     </item>
     <item>
       <title>The REASON you DON'T understand native speakers | Connected Speech 👀</title>
@@ -513,7 +521,7 @@
       <media:thumbnail url="https://i.ytimg.com/vi/5s1V5J8d2pE/hqdefault.jpg" />
     </item>
     <item>
-      <title>Recorrí INGLATERRA en 6 días buscando localizaciones de series 🎬🔎</title>
+      <title>I traveled around ENGLAND in 6 days looking for TV series locations 🎬🔎</title>
       <link>https://www.youtube.com/watch?v=N77rWhMJrzc</link>
       <guid isPermaLink="false">youtube:N77rWhMJrzc</guid>
       <category>Short</category>
@@ -577,7 +585,7 @@
       <media:thumbnail url="https://i.ytimg.com/vi/o-aUBVM0gqw/hqdefault.jpg" />
     </item>
     <item>
-      <title>Taylor Swift nos da un truquito para tu EXAMEN CAMBRIDGE 🤩</title>
+      <title>Taylor Swift gives us a little trick for your CAMBRIDGE EXAM 🤩</title>
       <link>https://www.youtube.com/watch?v=t-NnhIOOMJw</link>
       <guid isPermaLink="false">youtube:t-NnhIOOMJw</guid>
       <category>Short</category>
@@ -599,14 +607,6 @@
       <category>Short</category>
       <description>&lt;p&gt;&lt;strong&gt;Short&lt;/strong&gt;&lt;/p&gt;&lt;p&gt;&lt;a href="https://www.youtube.com/watch?v=uZegWSHA5dA"&gt;Abrir en YouTube&lt;/a&gt;&lt;/p&gt;</description>
       <media:thumbnail url="https://i.ytimg.com/vi/uZegWSHA5dA/hqdefault.jpg" />
-    </item>
-    <item>
-      <title>My 3 favorite BOOKS to PASS your B2 or C1 on your own | Cambridge Exam</title>
-      <link>https://www.youtube.com/watch?v=KCFAGU-ULWA</link>
-      <guid isPermaLink="false">youtube:KCFAGU-ULWA</guid>
-      <category>Short</category>
-      <description>&lt;p&gt;&lt;strong&gt;Short&lt;/strong&gt;&lt;/p&gt;&lt;p&gt;&lt;a href="https://www.youtube.com/watch?v=KCFAGU-ULWA"&gt;Abrir en YouTube&lt;/a&gt;&lt;/p&gt;</description>
-      <media:thumbnail url="https://i.ytimg.com/vi/KCFAGU-ULWA/hqdefault.jpg" />
     </item>
   </channel>
 </rss>
