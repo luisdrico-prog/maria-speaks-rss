@@ -5,7 +5,7 @@
     <link>https://www.youtube.com/@mariaspeaksenglish</link>
     <description>Feed histórico y actualizado de Maria Speaks English: vídeos, Shorts y directos. Conserva la fecha original de publicación y usa relleno histórico rotatorio para Feedly.</description>
     <language>es</language>
-    <lastBuildDate>Fri, 18 Sep 2026 00:33:47 +0000</lastBuildDate>
+    <lastBuildDate>Fri, 18 Sep 2026 06:32:14 +0000</lastBuildDate>
     <atom:link href="feed.xml" rel="self" type="application/rss+xml" />
     <item>
       <title>❌¡NO pronuncies CAMBRIDGE así! | Mini Pronunciation Lesson</title>
@@ -417,6 +417,14 @@
       <media:thumbnail url="https://i.ytimg.com/vi/q3b1zZ4os98/hqdefault.jpg" />
     </item>
     <item>
+      <title>Goodbye and thank you 2025 🥹💙🌈✨</title>
+      <link>https://www.youtube.com/watch?v=yts-JQYDQO0</link>
+      <guid isPermaLink="false">youtube:yts-JQYDQO0</guid>
+      <category>Short</category>
+      <description>&lt;p&gt;&lt;strong&gt;Short&lt;/strong&gt;&lt;/p&gt;&lt;p&gt;&lt;a href="https://www.youtube.com/watch?v=yts-JQYDQO0"&gt;Abrir en YouTube&lt;/a&gt;&lt;/p&gt;</description>
+      <media:thumbnail url="https://i.ytimg.com/vi/yts-JQYDQO0/hqdefault.jpg" />
+    </item>
+    <item>
       <title>La EXPRESIÓN ESPAÑOLA que JAMES CAMERON necesita aprender | #AvatarFuegoYCeniza</title>
       <link>https://www.youtube.com/watch?v=812Zn2XqHqo</link>
       <guid isPermaLink="false">youtube:812Zn2XqHqo</guid>
@@ -513,7 +521,7 @@
       <media:thumbnail url="https://i.ytimg.com/vi/RGL6q9eKZ_8/hqdefault.jpg" />
     </item>
     <item>
-      <title>Analyzing the Kardashians' Valley Accent | English Accent Analysis Series</title>
+      <title>Analizando el VALLEY ACCENT de las KARDASHIANS | Serie análisis de acentos en inglés</title>
       <link>https://www.youtube.com/watch?v=5s1V5J8d2pE</link>
       <guid isPermaLink="false">youtube:5s1V5J8d2pE</guid>
       <category>Short</category>
@@ -599,14 +607,6 @@
       <category>Short</category>
       <description>&lt;p&gt;&lt;strong&gt;Short&lt;/strong&gt;&lt;/p&gt;&lt;p&gt;&lt;a href="https://www.youtube.com/watch?v=aWlwFQFl5k8"&gt;Abrir en YouTube&lt;/a&gt;&lt;/p&gt;</description>
       <media:thumbnail url="https://i.ytimg.com/vi/aWlwFQFl5k8/hqdefault.jpg" />
-    </item>
-    <item>
-      <title>Nos vamos de REFORMA INTEGRAL | Vocabulario en inglés ✨</title>
-      <link>https://www.youtube.com/watch?v=uZegWSHA5dA</link>
-      <guid isPermaLink="false">youtube:uZegWSHA5dA</guid>
-      <category>Short</category>
-      <description>&lt;p&gt;&lt;strong&gt;Short&lt;/strong&gt;&lt;/p&gt;&lt;p&gt;&lt;a href="https://www.youtube.com/watch?v=uZegWSHA5dA"&gt;Abrir en YouTube&lt;/a&gt;&lt;/p&gt;</description>
-      <media:thumbnail url="https://i.ytimg.com/vi/uZegWSHA5dA/hqdefault.jpg" />
     </item>
   </channel>
 </rss>
