@@ -5,7 +5,7 @@
     <link>https://www.youtube.com/@mariaspeaksenglish</link>
     <description>Feed histórico y actualizado de Maria Speaks English: vídeos, Shorts y directos. Conserva la fecha original de publicación y usa relleno histórico rotatorio para Feedly.</description>
     <language>es</language>
-    <lastBuildDate>Fri, 02 Oct 2026 05:37:08 +0000</lastBuildDate>
+    <lastBuildDate>Fri, 02 Oct 2026 12:35:05 +0000</lastBuildDate>
     <atom:link href="feed.xml" rel="self" type="application/rss+xml" />
     <item>
       <title>¿Sabías que Audrey hablaba un acento que… NO EXISTE? | Día de la Mujer 2026</title>
@@ -33,6 +33,14 @@
       <pubDate>Tue, 01 Oct 2024 00:00:00 +0000</pubDate>
       <description>&lt;p&gt;&lt;strong&gt;Short&lt;/strong&gt;&lt;/p&gt;&lt;p&gt;Publicado originalmente: 01/10/2024 (fecha real)&lt;/p&gt;&lt;p&gt;Duración: 0:18&lt;/p&gt;&lt;p&gt;&lt;a href="https://www.youtube.com/watch?v=LhLtOaa1wjs"&gt;Abrir en YouTube&lt;/a&gt;&lt;/p&gt;</description>
       <media:thumbnail url="https://i.ytimg.com/vi/LhLtOaa1wjs/hqdefault.jpg" />
+    </item>
+    <item>
+      <title>3 infallible TIPS for giving a PRESENTATION in ENGLISH 🤓</title>
+      <link>https://www.youtube.com/watch?v=KZekoqrJy7U</link>
+      <guid isPermaLink="false">youtube:KZekoqrJy7U</guid>
+      <category>Short</category>
+      <description>&lt;p&gt;&lt;strong&gt;Short&lt;/strong&gt;&lt;/p&gt;&lt;p&gt;&lt;a href="https://www.youtube.com/watch?v=KZekoqrJy7U"&gt;Abrir en YouTube&lt;/a&gt;&lt;/p&gt;</description>
+      <media:thumbnail url="https://i.ytimg.com/vi/KZekoqrJy7U/hqdefault.jpg" />
     </item>
     <item>
       <title>SABRINA's brilliant translation | International Translation Day ✨</title>
@@ -601,14 +609,6 @@
       <category>Short</category>
       <description>&lt;p&gt;&lt;strong&gt;Short&lt;/strong&gt;&lt;/p&gt;&lt;p&gt;&lt;a href="https://www.youtube.com/watch?v=o-aUBVM0gqw"&gt;Abrir en YouTube&lt;/a&gt;&lt;/p&gt;</description>
       <media:thumbnail url="https://i.ytimg.com/vi/o-aUBVM0gqw/hqdefault.jpg" />
-    </item>
-    <item>
-      <title>Taylor Swift gives us a little trick for your CAMBRIDGE EXAM 🤩</title>
-      <link>https://www.youtube.com/watch?v=t-NnhIOOMJw</link>
-      <guid isPermaLink="false">youtube:t-NnhIOOMJw</guid>
-      <category>Short</category>
-      <description>&lt;p&gt;&lt;strong&gt;Short&lt;/strong&gt;&lt;/p&gt;&lt;p&gt;&lt;a href="https://www.youtube.com/watch?v=t-NnhIOOMJw"&gt;Abrir en YouTube&lt;/a&gt;&lt;/p&gt;</description>
-      <media:thumbnail url="https://i.ytimg.com/vi/t-NnhIOOMJw/hqdefault.jpg" />
     </item>
   </channel>
 </rss>
