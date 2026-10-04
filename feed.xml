@@ -5,7 +5,7 @@
     <link>https://www.youtube.com/@mariaspeaksenglish</link>
     <description>Feed histórico y actualizado de Maria Speaks English: vídeos, Shorts y directos. Conserva la fecha original de publicación y usa relleno histórico rotatorio para Feedly.</description>
     <language>es</language>
-    <lastBuildDate>Sat, 03 Oct 2026 21:14:24 +0000</lastBuildDate>
+    <lastBuildDate>Sun, 04 Oct 2026 05:52:54 +0000</lastBuildDate>
     <atom:link href="feed.xml" rel="self" type="application/rss+xml" />
     <item>
       <title>¿Sabías que Audrey hablaba un acento que… NO EXISTE? | Día de la Mujer 2026</title>
@@ -33,6 +33,24 @@
       <pubDate>Tue, 01 Oct 2024 00:00:00 +0000</pubDate>
       <description>&lt;p&gt;&lt;strong&gt;Short&lt;/strong&gt;&lt;/p&gt;&lt;p&gt;Publicado originalmente: 01/10/2024 (fecha real)&lt;/p&gt;&lt;p&gt;Duración: 0:18&lt;/p&gt;&lt;p&gt;&lt;a href="https://www.youtube.com/watch?v=LhLtOaa1wjs"&gt;Abrir en YouTube&lt;/a&gt;&lt;/p&gt;</description>
       <media:thumbnail url="https://i.ytimg.com/vi/LhLtOaa1wjs/hqdefault.jpg" />
+    </item>
+    <item>
+      <title>🤔Shadow o Shade?</title>
+      <link>https://www.youtube.com/watch?v=JcV169iO2sg</link>
+      <guid isPermaLink="false">youtube:JcV169iO2sg</guid>
+      <category>Short</category>
+      <pubDate>Wed, 14 Sep 2022 00:00:00 +0000</pubDate>
+      <description>&lt;p&gt;&lt;strong&gt;Short&lt;/strong&gt;&lt;/p&gt;&lt;p&gt;Publicado originalmente: 14/09/2022 (fecha real)&lt;/p&gt;&lt;p&gt;Duración: 0:18&lt;/p&gt;&lt;p&gt;&lt;a href="https://www.youtube.com/watch?v=JcV169iO2sg"&gt;Abrir en YouTube&lt;/a&gt;&lt;/p&gt;</description>
+      <media:thumbnail url="https://i.ytimg.com/vi/JcV169iO2sg/hqdefault.jpg" />
+    </item>
+    <item>
+      <title>Vocabulario de la playa en inglés 🌴 #shorts</title>
+      <link>https://www.youtube.com/watch?v=Srcvt0MIRPA</link>
+      <guid isPermaLink="false">youtube:Srcvt0MIRPA</guid>
+      <category>Short</category>
+      <pubDate>Thu, 08 Sep 2022 00:00:00 +0000</pubDate>
+      <description>&lt;p&gt;&lt;strong&gt;Short&lt;/strong&gt;&lt;/p&gt;&lt;p&gt;Publicado originalmente: 08/09/2022 (fecha real)&lt;/p&gt;&lt;p&gt;Duración: 0:17&lt;/p&gt;&lt;p&gt;&lt;a href="https://www.youtube.com/watch?v=Srcvt0MIRPA"&gt;Abrir en YouTube&lt;/a&gt;&lt;/p&gt;</description>
+      <media:thumbnail url="https://i.ytimg.com/vi/Srcvt0MIRPA/hqdefault.jpg" />
     </item>
     <item>
       <title>3 infallible TIPS for giving a PRESENTATION in ENGLISH 🤓</title>
@@ -593,22 +611,6 @@
       <category>Short</category>
       <description>&lt;p&gt;&lt;strong&gt;Short&lt;/strong&gt;&lt;/p&gt;&lt;p&gt;&lt;a href="https://www.youtube.com/watch?v=lTSrxqzivrg"&gt;Abrir en YouTube&lt;/a&gt;&lt;/p&gt;</description>
       <media:thumbnail url="https://i.ytimg.com/vi/lTSrxqzivrg/hqdefault.jpg" />
-    </item>
-    <item>
-      <title>My opinion on NIL OJEDA'S ENGLISH | The level of English in Spain</title>
-      <link>https://www.youtube.com/watch?v=xYncbUP786c</link>
-      <guid isPermaLink="false">youtube:xYncbUP786c</guid>
-      <category>Short</category>
-      <description>&lt;p&gt;&lt;strong&gt;Short&lt;/strong&gt;&lt;/p&gt;&lt;p&gt;&lt;a href="https://www.youtube.com/watch?v=xYncbUP786c"&gt;Abrir en YouTube&lt;/a&gt;&lt;/p&gt;</description>
-      <media:thumbnail url="https://i.ytimg.com/vi/xYncbUP786c/hqdefault.jpg" />
-    </item>
-    <item>
-      <title>La técnica SHADOWING para mejorar PRONUNCIACIÓN en INGLÉS | The Summer I Turned Pretty</title>
-      <link>https://www.youtube.com/watch?v=o-aUBVM0gqw</link>
-      <guid isPermaLink="false">youtube:o-aUBVM0gqw</guid>
-      <category>Short</category>
-      <description>&lt;p&gt;&lt;strong&gt;Short&lt;/strong&gt;&lt;/p&gt;&lt;p&gt;&lt;a href="https://www.youtube.com/watch?v=o-aUBVM0gqw"&gt;Abrir en YouTube&lt;/a&gt;&lt;/p&gt;</description>
-      <media:thumbnail url="https://i.ytimg.com/vi/o-aUBVM0gqw/hqdefault.jpg" />
     </item>
   </channel>
 </rss>
