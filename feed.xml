@@ -5,7 +5,7 @@
     <link>https://www.youtube.com/@mariaspeaksenglish</link>
     <description>Feed histórico y actualizado de Maria Speaks English: vídeos, Shorts y directos. Conserva la fecha original de publicación y usa relleno histórico rotatorio para Feedly.</description>
     <language>es</language>
-    <lastBuildDate>Wed, 21 Oct 2026 17:12:47 +0000</lastBuildDate>
+    <lastBuildDate>Wed, 21 Oct 2026 21:42:59 +0000</lastBuildDate>
     <atom:link href="feed.xml" rel="self" type="application/rss+xml" />
     <item>
       <title>Spain missed this FRIENDS joke 🤯 | Lost in Translation Series</title>
@@ -69,6 +69,14 @@
       <pubDate>Thu, 08 Sep 2022 00:00:00 +0000</pubDate>
       <description>&lt;p&gt;&lt;strong&gt;Short&lt;/strong&gt;&lt;/p&gt;&lt;p&gt;Publicado originalmente: 08/09/2022 (fecha real)&lt;/p&gt;&lt;p&gt;Duración: 0:17&lt;/p&gt;&lt;p&gt;&lt;a href="https://www.youtube.com/watch?v=Srcvt0MIRPA"&gt;Abrir en YouTube&lt;/a&gt;&lt;/p&gt;</description>
       <media:thumbnail url="https://i.ytimg.com/vi/Srcvt0MIRPA/hqdefault.jpg" />
+    </item>
+    <item>
+      <title>Mi opinión sobre el inglés de Jordi Wild 👀</title>
+      <link>https://www.youtube.com/watch?v=Hh3fZRlfpvA</link>
+      <guid isPermaLink="false">youtube:Hh3fZRlfpvA</guid>
+      <category>Short</category>
+      <description>&lt;p&gt;&lt;strong&gt;Short&lt;/strong&gt;&lt;/p&gt;&lt;p&gt;&lt;a href="https://www.youtube.com/watch?v=Hh3fZRlfpvA"&gt;Abrir en YouTube&lt;/a&gt;&lt;/p&gt;</description>
+      <media:thumbnail url="https://i.ytimg.com/vi/Hh3fZRlfpvA/hqdefault.jpg" />
     </item>
     <item>
       <title>Did you know you can be in the audience for the most famous TV shows in New York for FREE?</title>
@@ -447,20 +455,20 @@
       <media:thumbnail url="https://i.ytimg.com/vi/GqoLycXmZ8g/hqdefault.jpg" />
     </item>
     <item>
-      <title>You and I vs. You and Me 🤯 What's the difference? | Analyzing Harry Styles' English</title>
-      <link>https://www.youtube.com/watch?v=8xPfWKc2Fhc</link>
-      <guid isPermaLink="false">youtube:8xPfWKc2Fhc</guid>
-      <category>Short</category>
-      <description>&lt;p&gt;&lt;strong&gt;Short&lt;/strong&gt;&lt;/p&gt;&lt;p&gt;&lt;a href="https://www.youtube.com/watch?v=8xPfWKc2Fhc"&gt;Abrir en YouTube&lt;/a&gt;&lt;/p&gt;</description>
-      <media:thumbnail url="https://i.ytimg.com/vi/8xPfWKc2Fhc/hqdefault.jpg" />
-    </item>
-    <item>
       <title>Goodbye and thank you 2025 🥹💙🌈✨</title>
       <link>https://www.youtube.com/watch?v=yts-JQYDQO0</link>
       <guid isPermaLink="false">youtube:yts-JQYDQO0</guid>
       <category>Short</category>
       <description>&lt;p&gt;&lt;strong&gt;Short&lt;/strong&gt;&lt;/p&gt;&lt;p&gt;&lt;a href="https://www.youtube.com/watch?v=yts-JQYDQO0"&gt;Abrir en YouTube&lt;/a&gt;&lt;/p&gt;</description>
       <media:thumbnail url="https://i.ytimg.com/vi/yts-JQYDQO0/hqdefault.jpg" />
+    </item>
+    <item>
+      <title>You and I vs. You and Me 🤯 What's the difference? | Analyzing Harry Styles' English</title>
+      <link>https://www.youtube.com/watch?v=8xPfWKc2Fhc</link>
+      <guid isPermaLink="false">youtube:8xPfWKc2Fhc</guid>
+      <category>Short</category>
+      <description>&lt;p&gt;&lt;strong&gt;Short&lt;/strong&gt;&lt;/p&gt;&lt;p&gt;&lt;a href="https://www.youtube.com/watch?v=8xPfWKc2Fhc"&gt;Abrir en YouTube&lt;/a&gt;&lt;/p&gt;</description>
+      <media:thumbnail url="https://i.ytimg.com/vi/8xPfWKc2Fhc/hqdefault.jpg" />
     </item>
     <item>
       <title>The story of Hamnet, the son of William Shakespeare 💔</title>
@@ -605,14 +613,6 @@
       <category>Short</category>
       <description>&lt;p&gt;&lt;strong&gt;Short&lt;/strong&gt;&lt;/p&gt;&lt;p&gt;&lt;a href="https://www.youtube.com/watch?v=IfPMP4hmyGY"&gt;Abrir en YouTube&lt;/a&gt;&lt;/p&gt;</description>
       <media:thumbnail url="https://i.ytimg.com/vi/IfPMP4hmyGY/hqdefault.jpg" />
-    </item>
-    <item>
-      <title>Why can't we understand anything without subtitles? 🤯</title>
-      <link>https://www.youtube.com/watch?v=EB78y9c5qGU</link>
-      <guid isPermaLink="false">youtube:EB78y9c5qGU</guid>
-      <category>Short</category>
-      <description>&lt;p&gt;&lt;strong&gt;Short&lt;/strong&gt;&lt;/p&gt;&lt;p&gt;&lt;a href="https://www.youtube.com/watch?v=EB78y9c5qGU"&gt;Abrir en YouTube&lt;/a&gt;&lt;/p&gt;</description>
-      <media:thumbnail url="https://i.ytimg.com/vi/EB78y9c5qGU/hqdefault.jpg" />
     </item>
   </channel>
 </rss>
