@@ -5,7 +5,7 @@
     <link>https://www.youtube.com/@mariaspeaksenglish</link>
     <description>Feed histórico y actualizado de Maria Speaks English: vídeos, Shorts y directos. Conserva la fecha original de publicación y usa relleno histórico rotatorio para Feedly.</description>
     <language>es</language>
-    <lastBuildDate>Fri, 23 Oct 2026 17:07:24 +0000</lastBuildDate>
+    <lastBuildDate>Fri, 23 Oct 2026 21:24:29 +0000</lastBuildDate>
     <atom:link href="feed.xml" rel="self" type="application/rss+xml" />
     <item>
       <title>Spain missed this FRIENDS joke 🤯 | Lost in Translation Series</title>
@@ -78,6 +78,14 @@
       <pubDate>Wed, 27 Apr 2022 00:00:00 +0000</pubDate>
       <description>&lt;p&gt;&lt;strong&gt;Short&lt;/strong&gt;&lt;/p&gt;&lt;p&gt;Publicado originalmente: 27/04/2022 (fecha real)&lt;/p&gt;&lt;p&gt;Duración: 0:08&lt;/p&gt;&lt;p&gt;&lt;a href="https://www.youtube.com/watch?v=ccPd786ym10"&gt;Abrir en YouTube&lt;/a&gt;&lt;/p&gt;</description>
       <media:thumbnail url="https://i.ytimg.com/vi/ccPd786ym10/hqdefault.jpg" />
+    </item>
+    <item>
+      <title>Jane Austen's English vs. the English of 2026 🫪</title>
+      <link>https://www.youtube.com/watch?v=37XhoQlNCX0</link>
+      <guid isPermaLink="false">youtube:37XhoQlNCX0</guid>
+      <category>Short</category>
+      <description>&lt;p&gt;&lt;strong&gt;Short&lt;/strong&gt;&lt;/p&gt;&lt;p&gt;&lt;a href="https://www.youtube.com/watch?v=37XhoQlNCX0"&gt;Abrir en YouTube&lt;/a&gt;&lt;/p&gt;</description>
+      <media:thumbnail url="https://i.ytimg.com/vi/37XhoQlNCX0/hqdefault.jpg" />
     </item>
     <item>
       <title>Mi opinión sobre el inglés de Jordi Wild 👀</title>
@@ -456,20 +464,20 @@
       <media:thumbnail url="https://i.ytimg.com/vi/p1QMBB56w6I/hqdefault.jpg" />
     </item>
     <item>
-      <title>Analyzing the BRIDGERTON ACCENT 👗🌸✨ | Accent Series</title>
-      <link>https://www.youtube.com/watch?v=GqoLycXmZ8g</link>
-      <guid isPermaLink="false">youtube:GqoLycXmZ8g</guid>
-      <category>Short</category>
-      <description>&lt;p&gt;&lt;strong&gt;Short&lt;/strong&gt;&lt;/p&gt;&lt;p&gt;&lt;a href="https://www.youtube.com/watch?v=GqoLycXmZ8g"&gt;Abrir en YouTube&lt;/a&gt;&lt;/p&gt;</description>
-      <media:thumbnail url="https://i.ytimg.com/vi/GqoLycXmZ8g/hqdefault.jpg" />
-    </item>
-    <item>
       <title>Goodbye and thank you 2025 🥹💙🌈✨</title>
       <link>https://www.youtube.com/watch?v=yts-JQYDQO0</link>
       <guid isPermaLink="false">youtube:yts-JQYDQO0</guid>
       <category>Short</category>
       <description>&lt;p&gt;&lt;strong&gt;Short&lt;/strong&gt;&lt;/p&gt;&lt;p&gt;&lt;a href="https://www.youtube.com/watch?v=yts-JQYDQO0"&gt;Abrir en YouTube&lt;/a&gt;&lt;/p&gt;</description>
       <media:thumbnail url="https://i.ytimg.com/vi/yts-JQYDQO0/hqdefault.jpg" />
+    </item>
+    <item>
+      <title>Analyzing the BRIDGERTON ACCENT 👗🌸✨ | Accent Series</title>
+      <link>https://www.youtube.com/watch?v=GqoLycXmZ8g</link>
+      <guid isPermaLink="false">youtube:GqoLycXmZ8g</guid>
+      <category>Short</category>
+      <description>&lt;p&gt;&lt;strong&gt;Short&lt;/strong&gt;&lt;/p&gt;&lt;p&gt;&lt;a href="https://www.youtube.com/watch?v=GqoLycXmZ8g"&gt;Abrir en YouTube&lt;/a&gt;&lt;/p&gt;</description>
+      <media:thumbnail url="https://i.ytimg.com/vi/GqoLycXmZ8g/hqdefault.jpg" />
     </item>
     <item>
       <title>You and I vs. You and Me 🤯 What's the difference? | Analyzing Harry Styles' English</title>
@@ -606,14 +614,6 @@
       <category>Short</category>
       <description>&lt;p&gt;&lt;strong&gt;Short&lt;/strong&gt;&lt;/p&gt;&lt;p&gt;&lt;a href="https://www.youtube.com/watch?v=5s1V5J8d2pE"&gt;Abrir en YouTube&lt;/a&gt;&lt;/p&gt;</description>
       <media:thumbnail url="https://i.ytimg.com/vi/5s1V5J8d2pE/hqdefault.jpg" />
-    </item>
-    <item>
-      <title>I traveled around ENGLAND in 6 days looking for TV series locations 🎬🔎</title>
-      <link>https://www.youtube.com/watch?v=N77rWhMJrzc</link>
-      <guid isPermaLink="false">youtube:N77rWhMJrzc</guid>
-      <category>Short</category>
-      <description>&lt;p&gt;&lt;strong&gt;Short&lt;/strong&gt;&lt;/p&gt;&lt;p&gt;&lt;a href="https://www.youtube.com/watch?v=N77rWhMJrzc"&gt;Abrir en YouTube&lt;/a&gt;&lt;/p&gt;</description>
-      <media:thumbnail url="https://i.ytimg.com/vi/N77rWhMJrzc/hqdefault.jpg" />
     </item>
   </channel>
 </rss>
