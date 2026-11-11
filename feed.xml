@@ -5,7 +5,7 @@
     <link>https://www.youtube.com/@mariaspeaksenglish</link>
     <description>Feed histórico y actualizado de Maria Speaks English: vídeos, Shorts y directos. Conserva la fecha original de publicación y usa relleno histórico rotatorio para Feedly.</description>
     <language>es</language>
-    <lastBuildDate>Tue, 10 Nov 2026 19:44:45 +0000</lastBuildDate>
+    <lastBuildDate>Wed, 11 Nov 2026 06:18:38 +0000</lastBuildDate>
     <atom:link href="feed.xml" rel="self" type="application/rss+xml" />
     <item>
       <title>🔞 INGLÉS para ADULTOS 🔞 | Haciendo la cama</title>
@@ -14,7 +14,16 @@
       <category>Short</category>
       <pubDate>Tue, 10 Nov 2026 00:00:00 +0000</pubDate>
       <description>&lt;p&gt;&lt;strong&gt;Short&lt;/strong&gt;&lt;/p&gt;&lt;p&gt;Publicado originalmente: 10/11/2026 (fecha real)&lt;/p&gt;&lt;p&gt;Duración: 0:52&lt;/p&gt;&lt;p&gt;&lt;a href="https://www.youtube.com/watch?v=uBZ7U8aNNq8"&gt;Abrir en YouTube&lt;/a&gt;&lt;/p&gt;</description>
-      <media:thumbnail url="https://i.ytimg.com/vi/uBZ7U8aNNq8/hq720_2.jpg?sqp=-oaymwEoCIAKENAF8quKqQMcGADwAQH4AbYIgAKAD4oCDAgAEAEYTSBaKGUwDw==&amp;rs=AOn4CLCT_PM-JnTNINwPSVujM4VHrTaPHw" />
+      <media:thumbnail url="https://i.ytimg.com/vi/uBZ7U8aNNq8/hqdefault.jpg" />
+    </item>
+    <item>
+      <title>How did Shakira learn ENGLISH? Here is how you can do it too ✋🏻</title>
+      <link>https://www.youtube.com/watch?v=KfIymWoH7sI</link>
+      <guid isPermaLink="false">youtube:KfIymWoH7sI</guid>
+      <category>Short</category>
+      <pubDate>Tue, 27 Oct 2026 00:00:00 +0000</pubDate>
+      <description>&lt;p&gt;&lt;strong&gt;Short&lt;/strong&gt;&lt;/p&gt;&lt;p&gt;Publicado originalmente: 27/10/2026 (fecha real)&lt;/p&gt;&lt;p&gt;Duración: 1:09&lt;/p&gt;&lt;p&gt;&lt;a href="https://www.youtube.com/watch?v=KfIymWoH7sI"&gt;Abrir en YouTube&lt;/a&gt;&lt;/p&gt;</description>
+      <media:thumbnail url="https://i.ytimg.com/vi/KfIymWoH7sI/hqdefault.jpg" />
     </item>
     <item>
       <title>Jane Austen's English vs. the English of 2026 🫪</title>
@@ -672,24 +681,6 @@
       <pubDate>Mon, 06 Oct 2025 15:53:46 +0000</pubDate>
       <description>&lt;p&gt;&lt;strong&gt;Short&lt;/strong&gt;&lt;/p&gt;&lt;p&gt;Publicado originalmente: 06/10/2025 (fecha real)&lt;/p&gt;&lt;p&gt;Duración: 1:06&lt;/p&gt;&lt;p&gt;&lt;a href="https://www.youtube.com/watch?v=zgmWX-yfIuc"&gt;Abrir en YouTube&lt;/a&gt;&lt;/p&gt;</description>
       <media:thumbnail url="https://i.ytimg.com/vi/zgmWX-yfIuc/hqdefault.jpg" />
-    </item>
-    <item>
-      <title>La realidad de ser CREADORA de CONTENIDO | Behind the scenes 🎥</title>
-      <link>https://www.youtube.com/watch?v=HFnupMAxjuU</link>
-      <guid isPermaLink="false">youtube:HFnupMAxjuU</guid>
-      <category>Short</category>
-      <pubDate>Sat, 04 Oct 2025 17:41:14 +0000</pubDate>
-      <description>&lt;p&gt;&lt;strong&gt;Short&lt;/strong&gt;&lt;/p&gt;&lt;p&gt;Publicado originalmente: 04/10/2025 (fecha real)&lt;/p&gt;&lt;p&gt;Duración: 1:49&lt;/p&gt;&lt;p&gt;&lt;a href="https://www.youtube.com/watch?v=HFnupMAxjuU"&gt;Abrir en YouTube&lt;/a&gt;&lt;/p&gt;</description>
-      <media:thumbnail url="https://i.ytimg.com/vi/HFnupMAxjuU/hqdefault.jpg" />
-    </item>
-    <item>
-      <title>¿Qué quiere decir SABRINA CARPENTER cuando dice…? | Aprender inglés con canciones ✨</title>
-      <link>https://www.youtube.com/watch?v=lTSrxqzivrg</link>
-      <guid isPermaLink="false">youtube:lTSrxqzivrg</guid>
-      <category>Short</category>
-      <pubDate>Fri, 03 Oct 2025 18:57:45 +0000</pubDate>
-      <description>&lt;p&gt;&lt;strong&gt;Short&lt;/strong&gt;&lt;/p&gt;&lt;p&gt;Publicado originalmente: 03/10/2025 (fecha real)&lt;/p&gt;&lt;p&gt;Duración: 0:57&lt;/p&gt;&lt;p&gt;&lt;a href="https://www.youtube.com/watch?v=lTSrxqzivrg"&gt;Abrir en YouTube&lt;/a&gt;&lt;/p&gt;</description>
-      <media:thumbnail url="https://i.ytimg.com/vi/lTSrxqzivrg/hqdefault.jpg" />
     </item>
   </channel>
 </rss>
