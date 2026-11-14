@@ -1,8 +1,6 @@
 {
-  "active_ids": [
-    "CuXMjjEom40"
-  ],
-  "active_since": "2026-11-12T23:38:23.965881+00:00",
+  "active_ids": [],
+  "active_since": null,
   "catalog_count": 336,
   "done_ids": [
     "-2IdZK0AGPU",
@@ -73,6 +71,7 @@
     "CZ7qFafU6ZM",
     "CnKF3qgod44",
     "Co9GXJTGNLo",
+    "CuXMjjEom40",
     "D62c5oxOuqg",
     "DHZPG8mLdFk",
     "DPEFuSr4EEU",
@@ -341,6 +340,6 @@
     "zfdfd6uyJ28",
     "zgmWX-yfIuc"
   ],
-  "feed_count": 76,
-  "updated_at": "2026-11-13T19:40:14.304088+00:00"
+  "feed_count": 75,
+  "updated_at": "2026-11-14T06:19:59.331500+00:00"
 }
