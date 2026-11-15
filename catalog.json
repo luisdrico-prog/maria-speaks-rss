@@ -1228,7 +1228,7 @@
       "Short": 79
     },
     "thumbnail": "https://i.ytimg.com/vi/EB78y9c5qGU/hqdefault.jpg",
-    "title": "Why can't we understand anything without subtitles? 🤯",
+    "title": "¿Por qué no entendemos NADA sin SUBTÍTULOS? 🤯",
     "url": "https://www.youtube.com/watch?v=EB78y9c5qGU"
   },
   {
@@ -1436,7 +1436,7 @@
       "Short": 92
     },
     "thumbnail": "https://i.ytimg.com/vi/UapgpHh7pwA/hqdefault.jpg",
-    "title": "¿Qué IDIOM en inglés define a los hermanos de The Summer I Turned Pretty? ❤️‍🩹",
+    "title": "What English idiom describes the siblings from The Summer I Turned Pretty? ❤️‍🩹",
     "url": "https://www.youtube.com/watch?v=UapgpHh7pwA"
   },
   {
@@ -1516,7 +1516,7 @@
       "Short": 97
     },
     "thumbnail": "https://i.ytimg.com/vi/rHUUG1rnMKA/hqdefault.jpg",
-    "title": "Mi opinión del INGLÉS de SOFIA VERGARA 😳",
+    "title": "My opinion of Sofia Vergara's English 😳",
     "url": "https://www.youtube.com/watch?v=rHUUG1rnMKA"
   },
   {
@@ -1836,7 +1836,7 @@
       "Short": 121
     },
     "thumbnail": "https://i.ytimg.com/vi/ILsd7CBvpNE/hqdefault.jpg",
-    "title": "We analyze the English of MARIA SPEAKS ENGLISH | Podcast Teachers Talk Tech Cambridge",
+    "title": "Analizamos el inglés de MARIA SPEAKS ENGLISH | Podcast Teachers Talk Tech Cambridge",
     "url": "https://www.youtube.com/watch?v=ILsd7CBvpNE"
   },
   {
@@ -3100,7 +3100,7 @@
       "Short": 220
     },
     "thumbnail": "https://i.ytimg.com/vi/sqVZQJFCCx8/hqdefault.jpg",
-    "title": "Así son las OFICINAS DE CAMBRIDGE por dentro 😱",
+    "title": "Inside the CAMBRIDGE OFFICES 😱",
     "url": "https://www.youtube.com/watch?v=sqVZQJFCCx8"
   },
   {
@@ -3324,7 +3324,7 @@
       "Short": 249
     },
     "thumbnail": "https://i.ytimg.com/vi/-ZbKpyPnB-Q/hqdefault.jpg",
-    "title": "Prepositions for means of transport in English #english #learnenglish",
+    "title": "Preposiciones para medios de transporte en inglés #english #aprenderingles",
     "url": "https://www.youtube.com/watch?v=-ZbKpyPnB-Q"
   },
   {
@@ -3842,6 +3842,38 @@
   {
     "channel": "Maria Speaks English",
     "date_check_failures": 0,
+    "date_checked_at": "2026-11-15T18:51:44.998303+00:00",
+    "date_source": "video_exact",
+    "duration": 10,
+    "id": "Vum-2iUmg5A",
+    "kind": "Short",
+    "published": "2021-12-13T00:00:00+00:00",
+    "source_positions": {
+      "Short": 326
+    },
+    "thumbnail": "https://i.ytimg.com/vi/Vum-2iUmg5A/hq2.jpg?sqp=-oaymwEoCOADEOgC8quKqQMcGADwAQH4AYwCgALgA4oCDAgAEAEYZSBMKEkwDw==&rs=AOn4CLAGvPAIiW6FToMgUCPsFEK7vRE-EQ",
+    "title": "Hacer algo por postureo… en inglés✌🏻",
+    "url": "https://www.youtube.com/watch?v=Vum-2iUmg5A"
+  },
+  {
+    "channel": "Maria Speaks English",
+    "date_check_failures": 0,
+    "date_checked_at": "2026-11-15T18:51:52.189942+00:00",
+    "date_source": "video_exact",
+    "duration": 7,
+    "id": "rdhfWarKs6Q",
+    "kind": "Short",
+    "published": "2021-12-12T00:00:00+00:00",
+    "source_positions": {
+      "Short": 328
+    },
+    "thumbnail": "https://i.ytimg.com/vi/rdhfWarKs6Q/hq2.jpg?sqp=-oaymwEoCOADEOgC8quKqQMcGADwAQH4AYwCgALgA4oCDAgAEAEYZSBTKEowDw==&rs=AOn4CLDifwCAbtjN_1UsrmqZNVH-20opAw",
+    "title": "¡Pon a prueba tu inglés! ¿Qué error hay en la frase? Te espero en comentarios👇🏻",
+    "url": "https://www.youtube.com/watch?v=rdhfWarKs6Q"
+  },
+  {
+    "channel": "Maria Speaks English",
+    "date_check_failures": 0,
     "date_checked_at": "2026-10-27T22:13:47.156270+00:00",
     "date_source": "video_exact",
     "duration": 15,
@@ -3857,8 +3889,8 @@
   },
   {
     "channel": "Maria Speaks English",
-    "date_check_failures": 1,
-    "date_checked_at": "2026-11-14T22:22:54.681886+00:00",
+    "date_check_failures": 2,
+    "date_checked_at": "2026-11-15T18:50:09.908077+00:00",
     "date_source": null,
     "duration": null,
     "id": "r6JQZsXpFK4",
@@ -3873,8 +3905,8 @@
   },
   {
     "channel": "Maria Speaks English",
-    "date_check_failures": 3,
-    "date_checked_at": "2026-11-14T17:59:40.418031+00:00",
+    "date_check_failures": 4,
+    "date_checked_at": "2026-11-15T18:50:11.019613+00:00",
     "date_source": null,
     "duration": null,
     "id": "CuXMjjEom40",
@@ -3889,8 +3921,8 @@
   },
   {
     "channel": "Maria Speaks English",
-    "date_check_failures": 60,
-    "date_checked_at": "2026-11-14T17:59:41.603002+00:00",
+    "date_check_failures": 61,
+    "date_checked_at": "2026-11-15T18:50:12.159047+00:00",
     "date_source": null,
     "duration": null,
     "id": "yts-JQYDQO0",
@@ -3905,8 +3937,8 @@
   },
   {
     "channel": "Maria Speaks English",
-    "date_check_failures": 80,
-    "date_checked_at": "2026-11-14T17:59:42.968121+00:00",
+    "date_check_failures": 81,
+    "date_checked_at": "2026-11-15T18:50:13.342521+00:00",
     "date_source": null,
     "duration": null,
     "id": "KxFFA-14khc",
@@ -3916,13 +3948,13 @@
       "Short": 104
     },
     "thumbnail": "https://i.ytimg.com/vi/KxFFA-14khc/hqdefault.jpg",
-    "title": "Questions at the ED SHEERAN CONCERT | Have you learned English through music? 🎶",
+    "title": "Preguntas en el CONCIERTO de ED SHEERAN | ¿Has aprendido inglés con música? 🎶",
     "url": "https://www.youtube.com/watch?v=KxFFA-14khc"
   },
   {
     "channel": "Maria Speaks English",
-    "date_check_failures": 79,
-    "date_checked_at": "2026-11-14T17:59:44.016323+00:00",
+    "date_check_failures": 80,
+    "date_checked_at": "2026-11-15T18:50:14.360242+00:00",
     "date_source": null,
     "duration": null,
     "id": "YMH45FY3GpI",
@@ -3937,8 +3969,8 @@
   },
   {
     "channel": "Maria Speaks English",
-    "date_check_failures": 79,
-    "date_checked_at": "2026-11-14T17:59:45.515618+00:00",
+    "date_check_failures": 80,
+    "date_checked_at": "2026-11-15T18:50:15.332990+00:00",
     "date_source": null,
     "duration": null,
     "id": "2H8Xizcv3HA",
@@ -3953,8 +3985,8 @@
   },
   {
     "channel": "Maria Speaks English",
-    "date_check_failures": 79,
-    "date_checked_at": "2026-11-14T17:59:46.501500+00:00",
+    "date_check_failures": 80,
+    "date_checked_at": "2026-11-15T18:50:16.328142+00:00",
     "date_source": null,
     "duration": null,
     "id": "ch4fMaRm0xI",
@@ -3969,8 +4001,8 @@
   },
   {
     "channel": "Maria Speaks English",
-    "date_check_failures": 78,
-    "date_checked_at": "2026-11-14T17:59:47.443028+00:00",
+    "date_check_failures": 79,
+    "date_checked_at": "2026-11-15T18:50:17.279989+00:00",
     "date_source": null,
     "duration": null,
     "id": "Co9GXJTGNLo",
@@ -3985,8 +4017,8 @@
   },
   {
     "channel": "Maria Speaks English",
-    "date_check_failures": 78,
-    "date_checked_at": "2026-11-14T17:59:48.317111+00:00",
+    "date_check_failures": 79,
+    "date_checked_at": "2026-11-15T18:50:18.340060+00:00",
     "date_source": null,
     "duration": null,
     "id": "pquDSHEhjVA",
@@ -4001,8 +4033,8 @@
   },
   {
     "channel": "Maria Speaks English",
-    "date_check_failures": 78,
-    "date_checked_at": "2026-11-14T17:59:49.554829+00:00",
+    "date_check_failures": 79,
+    "date_checked_at": "2026-11-15T18:50:19.287806+00:00",
     "date_source": null,
     "duration": null,
     "id": "CZ7qFafU6ZM",
@@ -4017,8 +4049,8 @@
   },
   {
     "channel": "Maria Speaks English",
-    "date_check_failures": 78,
-    "date_checked_at": "2026-11-14T17:59:50.574512+00:00",
+    "date_check_failures": 79,
+    "date_checked_at": "2026-11-15T18:50:20.401054+00:00",
     "date_source": null,
     "duration": null,
     "id": "mlnJemKPJoQ",
@@ -4033,8 +4065,8 @@
   },
   {
     "channel": "Maria Speaks English",
-    "date_check_failures": 78,
-    "date_checked_at": "2026-11-14T17:59:51.532165+00:00",
+    "date_check_failures": 79,
+    "date_checked_at": "2026-11-15T18:50:21.331972+00:00",
     "date_source": null,
     "duration": null,
     "id": "bROh5pDjzFg",
@@ -4049,8 +4081,8 @@
   },
   {
     "channel": "Maria Speaks English",
-    "date_check_failures": 78,
-    "date_checked_at": "2026-11-14T17:59:52.687249+00:00",
+    "date_check_failures": 79,
+    "date_checked_at": "2026-11-15T18:50:22.201514+00:00",
     "date_source": null,
     "duration": null,
     "id": "NjtSWcs4_Nc",
@@ -4065,8 +4097,8 @@
   },
   {
     "channel": "Maria Speaks English",
-    "date_check_failures": 78,
-    "date_checked_at": "2026-11-14T17:59:53.659272+00:00",
+    "date_check_failures": 79,
+    "date_checked_at": "2026-11-15T18:50:23.241259+00:00",
     "date_source": null,
     "duration": null,
     "id": "IOUEpFmcTdA",
@@ -4081,8 +4113,8 @@
   },
   {
     "channel": "Maria Speaks English",
-    "date_check_failures": 77,
-    "date_checked_at": "2026-11-14T17:59:54.931833+00:00",
+    "date_check_failures": 78,
+    "date_checked_at": "2026-11-15T18:50:24.253602+00:00",
     "date_source": null,
     "duration": null,
     "id": "Ra8Sm_e0T9c",
@@ -4097,8 +4129,8 @@
   },
   {
     "channel": "Maria Speaks English",
-    "date_check_failures": 77,
-    "date_checked_at": "2026-11-14T17:59:56.031683+00:00",
+    "date_check_failures": 78,
+    "date_checked_at": "2026-11-15T18:50:25.732320+00:00",
     "date_source": null,
     "duration": null,
     "id": "noPEJrg3TI0",
@@ -4113,8 +4145,8 @@
   },
   {
     "channel": "Maria Speaks English",
-    "date_check_failures": 75,
-    "date_checked_at": "2026-11-14T17:59:57.253537+00:00",
+    "date_check_failures": 76,
+    "date_checked_at": "2026-11-15T18:50:27.207672+00:00",
     "date_source": null,
     "duration": null,
     "id": "pa9TT_KYvTk",
@@ -4129,8 +4161,8 @@
   },
   {
     "channel": "Maria Speaks English",
-    "date_check_failures": 75,
-    "date_checked_at": "2026-11-14T17:59:58.289683+00:00",
+    "date_check_failures": 76,
+    "date_checked_at": "2026-11-15T18:50:28.065533+00:00",
     "date_source": null,
     "duration": null,
     "id": "WLt_cdNHHzc",
@@ -4145,8 +4177,8 @@
   },
   {
     "channel": "Maria Speaks English",
-    "date_check_failures": 75,
-    "date_checked_at": "2026-11-14T17:59:59.383097+00:00",
+    "date_check_failures": 76,
+    "date_checked_at": "2026-11-15T18:50:29.039311+00:00",
     "date_source": null,
     "duration": null,
     "id": "uhsXy7rYWnA",
@@ -4161,8 +4193,8 @@
   },
   {
     "channel": "Maria Speaks English",
-    "date_check_failures": 75,
-    "date_checked_at": "2026-11-14T18:00:00.448987+00:00",
+    "date_check_failures": 76,
+    "date_checked_at": "2026-11-15T18:50:30.145533+00:00",
     "date_source": null,
     "duration": null,
     "id": "e1kws8BnirE",
@@ -4177,8 +4209,8 @@
   },
   {
     "channel": "Maria Speaks English",
-    "date_check_failures": 75,
-    "date_checked_at": "2026-11-14T18:00:02.658890+00:00",
+    "date_check_failures": 76,
+    "date_checked_at": "2026-11-15T18:50:31.324259+00:00",
     "date_source": null,
     "duration": null,
     "id": "uZCQvgMR9tk",
@@ -4193,8 +4225,8 @@
   },
   {
     "channel": "Maria Speaks English",
-    "date_check_failures": 75,
-    "date_checked_at": "2026-11-14T18:00:03.788242+00:00",
+    "date_check_failures": 76,
+    "date_checked_at": "2026-11-15T18:50:32.334536+00:00",
     "date_source": null,
     "duration": null,
     "id": "gEHOd3vhUs8",
@@ -4209,8 +4241,8 @@
   },
   {
     "channel": "Maria Speaks English",
-    "date_check_failures": 75,
-    "date_checked_at": "2026-11-14T18:00:04.893129+00:00",
+    "date_check_failures": 76,
+    "date_checked_at": "2026-11-15T18:50:33.411548+00:00",
     "date_source": null,
     "duration": null,
     "id": "HeJjbm_Gxbg",
@@ -4225,8 +4257,8 @@
   },
   {
     "channel": "Maria Speaks English",
-    "date_check_failures": 75,
-    "date_checked_at": "2026-11-14T18:00:06.144767+00:00",
+    "date_check_failures": 76,
+    "date_checked_at": "2026-11-15T18:50:34.358673+00:00",
     "date_source": null,
     "duration": null,
     "id": "khPgpn47flw",
@@ -4241,8 +4273,8 @@
   },
   {
     "channel": "Maria Speaks English",
-    "date_check_failures": 75,
-    "date_checked_at": "2026-11-14T18:00:07.447782+00:00",
+    "date_check_failures": 76,
+    "date_checked_at": "2026-11-15T18:50:35.528170+00:00",
     "date_source": null,
     "duration": null,
     "id": "iHwyUCUqaPI",
@@ -4257,8 +4289,8 @@
   },
   {
     "channel": "Maria Speaks English",
-    "date_check_failures": 75,
-    "date_checked_at": "2026-11-14T18:00:08.526097+00:00",
+    "date_check_failures": 76,
+    "date_checked_at": "2026-11-15T18:50:36.614470+00:00",
     "date_source": null,
     "duration": null,
     "id": "X6eE4CJ5jk0",
@@ -4273,8 +4305,8 @@
   },
   {
     "channel": "Maria Speaks English",
-    "date_check_failures": 75,
-    "date_checked_at": "2026-11-14T18:00:09.579073+00:00",
+    "date_check_failures": 76,
+    "date_checked_at": "2026-11-15T18:50:37.642659+00:00",
     "date_source": null,
     "duration": null,
     "id": "BH-1VnCuRJo",
@@ -4289,8 +4321,8 @@
   },
   {
     "channel": "Maria Speaks English",
-    "date_check_failures": 75,
-    "date_checked_at": "2026-11-14T18:00:10.616181+00:00",
+    "date_check_failures": 76,
+    "date_checked_at": "2026-11-15T18:50:38.883938+00:00",
     "date_source": null,
     "duration": null,
     "id": "-xZh1af16hM",
@@ -4305,8 +4337,8 @@
   },
   {
     "channel": "Maria Speaks English",
-    "date_check_failures": 75,
-    "date_checked_at": "2026-11-14T18:00:11.755565+00:00",
+    "date_check_failures": 76,
+    "date_checked_at": "2026-11-15T18:50:39.928830+00:00",
     "date_source": null,
     "duration": null,
     "id": "JhzJPYGWKlI",
@@ -4321,8 +4353,8 @@
   },
   {
     "channel": "Maria Speaks English",
-    "date_check_failures": 75,
-    "date_checked_at": "2026-11-14T18:00:12.896426+00:00",
+    "date_check_failures": 76,
+    "date_checked_at": "2026-11-15T18:50:41.318635+00:00",
     "date_source": null,
     "duration": null,
     "id": "cw_AelHzgCM",
@@ -4337,8 +4369,8 @@
   },
   {
     "channel": "Maria Speaks English",
-    "date_check_failures": 75,
-    "date_checked_at": "2026-11-14T18:00:14.064083+00:00",
+    "date_check_failures": 76,
+    "date_checked_at": "2026-11-15T18:50:42.357030+00:00",
     "date_source": null,
     "duration": null,
     "id": "EHxv708OjYE",
@@ -4353,8 +4385,8 @@
   },
   {
     "channel": "Maria Speaks English",
-    "date_check_failures": 75,
-    "date_checked_at": "2026-11-14T18:00:15.528154+00:00",
+    "date_check_failures": 76,
+    "date_checked_at": "2026-11-15T18:50:43.466946+00:00",
     "date_source": null,
     "duration": null,
     "id": "AAL-_3dHmXc",
@@ -4369,8 +4401,8 @@
   },
   {
     "channel": "Maria Speaks English",
-    "date_check_failures": 75,
-    "date_checked_at": "2026-11-14T18:00:16.931687+00:00",
+    "date_check_failures": 76,
+    "date_checked_at": "2026-11-15T18:50:44.552133+00:00",
     "date_source": null,
     "duration": null,
     "id": "ANK4YiYjH6c",
@@ -4385,8 +4417,8 @@
   },
   {
     "channel": "Maria Speaks English",
-    "date_check_failures": 75,
-    "date_checked_at": "2026-11-14T18:00:18.193207+00:00",
+    "date_check_failures": 76,
+    "date_checked_at": "2026-11-15T18:50:45.727953+00:00",
     "date_source": null,
     "duration": null,
     "id": "_1SlWfFh6Ys",
@@ -4401,8 +4433,8 @@
   },
   {
     "channel": "Maria Speaks English",
-    "date_check_failures": 75,
-    "date_checked_at": "2026-11-14T18:00:20.738885+00:00",
+    "date_check_failures": 76,
+    "date_checked_at": "2026-11-15T18:50:46.997397+00:00",
     "date_source": null,
     "duration": null,
     "id": "IJWoYQiwCgI",
@@ -4417,8 +4449,8 @@
   },
   {
     "channel": "Maria Speaks English",
-    "date_check_failures": 75,
-    "date_checked_at": "2026-11-14T18:00:21.773836+00:00",
+    "date_check_failures": 76,
+    "date_checked_at": "2026-11-15T18:50:48.028022+00:00",
     "date_source": null,
     "duration": null,
     "id": "kmnanC8_xWE",
@@ -4433,8 +4465,8 @@
   },
   {
     "channel": "Maria Speaks English",
-    "date_check_failures": 75,
-    "date_checked_at": "2026-11-14T18:00:23.115221+00:00",
+    "date_check_failures": 76,
+    "date_checked_at": "2026-11-15T18:50:49.254865+00:00",
     "date_source": null,
     "duration": null,
     "id": "iC0JbHMtsMY",
@@ -4449,8 +4481,8 @@
   },
   {
     "channel": "Maria Speaks English",
-    "date_check_failures": 75,
-    "date_checked_at": "2026-11-14T18:00:24.364196+00:00",
+    "date_check_failures": 76,
+    "date_checked_at": "2026-11-15T18:50:50.385358+00:00",
     "date_source": null,
     "duration": null,
     "id": "OcKMyG4QEO8",
@@ -4460,13 +4492,13 @@
       "Short": 238
     },
     "thumbnail": "https://i.ytimg.com/vi/OcKMyG4QEO8/hqdefault.jpg",
-    "title": "¿Cuál es la PRONUNCIACIÓN en inglés de la nueva app Threads? 😳",
+    "title": "What is the English pronunciation of the new Threads app? 😳",
     "url": "https://www.youtube.com/watch?v=OcKMyG4QEO8"
   },
   {
     "channel": "Maria Speaks English",
-    "date_check_failures": 75,
-    "date_checked_at": "2026-11-14T18:00:25.825242+00:00",
+    "date_check_failures": 76,
+    "date_checked_at": "2026-11-15T18:50:51.346939+00:00",
     "date_source": null,
     "duration": null,
     "id": "lyauymk6oHA",
@@ -4481,8 +4513,8 @@
   },
   {
     "channel": "Maria Speaks English",
-    "date_check_failures": 75,
-    "date_checked_at": "2026-11-14T18:00:26.902475+00:00",
+    "date_check_failures": 76,
+    "date_checked_at": "2026-11-15T18:50:52.311577+00:00",
     "date_source": null,
     "duration": null,
     "id": "6GQ8rydSL9o",
@@ -4497,8 +4529,8 @@
   },
   {
     "channel": "Maria Speaks English",
-    "date_check_failures": 75,
-    "date_checked_at": "2026-11-14T18:00:28.987779+00:00",
+    "date_check_failures": 76,
+    "date_checked_at": "2026-11-15T18:50:53.207029+00:00",
     "date_source": null,
     "duration": null,
     "id": "QUWdElU7wDI",
@@ -4513,8 +4545,8 @@
   },
   {
     "channel": "Maria Speaks English",
-    "date_check_failures": 75,
-    "date_checked_at": "2026-11-14T18:00:30.030449+00:00",
+    "date_check_failures": 76,
+    "date_checked_at": "2026-11-15T18:50:54.434667+00:00",
     "date_source": null,
     "duration": null,
     "id": "2fzOwJ-uEkI",
@@ -4529,8 +4561,8 @@
   },
   {
     "channel": "Maria Speaks English",
-    "date_check_failures": 75,
-    "date_checked_at": "2026-11-14T18:00:31.146074+00:00",
+    "date_check_failures": 76,
+    "date_checked_at": "2026-11-15T18:50:55.466751+00:00",
     "date_source": null,
     "duration": null,
     "id": "u8ttL_OhKkM",
@@ -4545,8 +4577,8 @@
   },
   {
     "channel": "Maria Speaks English",
-    "date_check_failures": 75,
-    "date_checked_at": "2026-11-14T18:00:32.267499+00:00",
+    "date_check_failures": 76,
+    "date_checked_at": "2026-11-15T18:50:56.535063+00:00",
     "date_source": null,
     "duration": null,
     "id": "vv-63ovLt_c",
@@ -4561,8 +4593,8 @@
   },
   {
     "channel": "Maria Speaks English",
-    "date_check_failures": 75,
-    "date_checked_at": "2026-11-14T18:00:33.349174+00:00",
+    "date_check_failures": 76,
+    "date_checked_at": "2026-11-15T18:50:57.571655+00:00",
     "date_source": null,
     "duration": null,
     "id": "ExnPtcMkK4Y",
@@ -4577,8 +4609,8 @@
   },
   {
     "channel": "Maria Speaks English",
-    "date_check_failures": 75,
-    "date_checked_at": "2026-11-14T18:00:34.493490+00:00",
+    "date_check_failures": 76,
+    "date_checked_at": "2026-11-15T18:50:58.546865+00:00",
     "date_source": null,
     "duration": null,
     "id": "loNYMF6MpSI",
@@ -4593,8 +4625,8 @@
   },
   {
     "channel": "Maria Speaks English",
-    "date_check_failures": 75,
-    "date_checked_at": "2026-11-14T18:00:35.512317+00:00",
+    "date_check_failures": 76,
+    "date_checked_at": "2026-11-15T18:50:59.826637+00:00",
     "date_source": null,
     "duration": null,
     "id": "8mW_hTIkkg0",
@@ -4609,8 +4641,8 @@
   },
   {
     "channel": "Maria Speaks English",
-    "date_check_failures": 75,
-    "date_checked_at": "2026-11-14T18:00:36.726881+00:00",
+    "date_check_failures": 76,
+    "date_checked_at": "2026-11-15T18:51:00.935323+00:00",
     "date_source": null,
     "duration": null,
     "id": "Vx4WBFKdkxk",
@@ -4625,8 +4657,8 @@
   },
   {
     "channel": "Maria Speaks English",
-    "date_check_failures": 75,
-    "date_checked_at": "2026-11-14T18:00:38.042899+00:00",
+    "date_check_failures": 76,
+    "date_checked_at": "2026-11-15T18:51:02.035760+00:00",
     "date_source": null,
     "duration": null,
     "id": "CQUQRO6r7Vo",
@@ -4641,8 +4673,8 @@
   },
   {
     "channel": "Maria Speaks English",
-    "date_check_failures": 75,
-    "date_checked_at": "2026-11-14T18:00:39.282339+00:00",
+    "date_check_failures": 76,
+    "date_checked_at": "2026-11-15T18:51:03.036548+00:00",
     "date_source": null,
     "duration": null,
     "id": "vibMA8xDFtE",
@@ -4657,8 +4689,8 @@
   },
   {
     "channel": "Maria Speaks English",
-    "date_check_failures": 75,
-    "date_checked_at": "2026-11-14T18:00:40.439308+00:00",
+    "date_check_failures": 76,
+    "date_checked_at": "2026-11-15T18:51:04.651247+00:00",
     "date_source": null,
     "duration": null,
     "id": "J6AaR9td2Ys",
@@ -4673,8 +4705,8 @@
   },
   {
     "channel": "Maria Speaks English",
-    "date_check_failures": 75,
-    "date_checked_at": "2026-11-14T18:00:41.555828+00:00",
+    "date_check_failures": 76,
+    "date_checked_at": "2026-11-15T18:51:05.755979+00:00",
     "date_source": null,
     "duration": null,
     "id": "gDAJlNLgcMs",
@@ -4689,8 +4721,8 @@
   },
   {
     "channel": "Maria Speaks English",
-    "date_check_failures": 75,
-    "date_checked_at": "2026-11-14T18:00:42.853202+00:00",
+    "date_check_failures": 76,
+    "date_checked_at": "2026-11-15T18:51:06.860101+00:00",
     "date_source": null,
     "duration": null,
     "id": "HZAilp5OMKo",
@@ -4705,8 +4737,8 @@
   },
   {
     "channel": "Maria Speaks English",
-    "date_check_failures": 75,
-    "date_checked_at": "2026-11-14T18:00:44.850179+00:00",
+    "date_check_failures": 76,
+    "date_checked_at": "2026-11-15T18:51:08.319972+00:00",
     "date_source": null,
     "duration": null,
     "id": "7HjqoILuDZE",
@@ -4721,8 +4753,8 @@
   },
   {
     "channel": "Maria Speaks English",
-    "date_check_failures": 75,
-    "date_checked_at": "2026-11-14T18:00:46.426740+00:00",
+    "date_check_failures": 76,
+    "date_checked_at": "2026-11-15T18:51:09.422804+00:00",
     "date_source": null,
     "duration": null,
     "id": "-9XHzK61v54",
@@ -4732,13 +4764,13 @@
       "Short": 276
     },
     "thumbnail": "https://i.ytimg.com/vi/-9XHzK61v54/hqdefault.jpg",
-    "title": "Aprender inglés con Netflix",
+    "title": "Learning English with Netflix",
     "url": "https://www.youtube.com/watch?v=-9XHzK61v54"
   },
   {
     "channel": "Maria Speaks English",
-    "date_check_failures": 71,
-    "date_checked_at": "2026-11-14T18:00:48.439973+00:00",
+    "date_check_failures": 72,
+    "date_checked_at": "2026-11-15T18:51:10.673709+00:00",
     "date_source": null,
     "duration": null,
     "id": "N-c_gDKGvxc",
@@ -4753,8 +4785,8 @@
   },
   {
     "channel": "Maria Speaks English",
-    "date_check_failures": 71,
-    "date_checked_at": "2026-11-14T18:00:49.469938+00:00",
+    "date_check_failures": 72,
+    "date_checked_at": "2026-11-15T18:51:11.944523+00:00",
     "date_source": null,
     "duration": null,
     "id": "zHC0z9MpfGk",
@@ -4769,8 +4801,8 @@
   },
   {
     "channel": "Maria Speaks English",
-    "date_check_failures": 71,
-    "date_checked_at": "2026-11-14T18:00:50.724454+00:00",
+    "date_check_failures": 72,
+    "date_checked_at": "2026-11-15T18:51:13.024295+00:00",
     "date_source": null,
     "duration": null,
     "id": "-2IdZK0AGPU",
@@ -4785,8 +4817,8 @@
   },
   {
     "channel": "Maria Speaks English",
-    "date_check_failures": 66,
-    "date_checked_at": "2026-11-14T18:00:51.795094+00:00",
+    "date_check_failures": 67,
+    "date_checked_at": "2026-11-15T18:51:14.090999+00:00",
     "date_source": null,
     "duration": null,
     "id": "PEeVSoLS53U",
@@ -4801,8 +4833,8 @@
   },
   {
     "channel": "Maria Speaks English",
-    "date_check_failures": 57,
-    "date_checked_at": "2026-11-14T18:00:52.996193+00:00",
+    "date_check_failures": 58,
+    "date_checked_at": "2026-11-15T18:51:15.227535+00:00",
     "date_source": null,
     "duration": null,
     "id": "4hsIlUS1xK4",
@@ -4817,8 +4849,8 @@
   },
   {
     "channel": "Maria Speaks English",
-    "date_check_failures": 55,
-    "date_checked_at": "2026-11-14T18:00:54.537430+00:00",
+    "date_check_failures": 56,
+    "date_checked_at": "2026-11-15T18:51:16.110106+00:00",
     "date_source": null,
     "duration": null,
     "id": "FqMdyz8JILg",
@@ -4833,8 +4865,8 @@
   },
   {
     "channel": "Maria Speaks English",
-    "date_check_failures": 54,
-    "date_checked_at": "2026-11-14T18:00:55.838932+00:00",
+    "date_check_failures": 55,
+    "date_checked_at": "2026-11-15T18:51:17.083692+00:00",
     "date_source": null,
     "duration": null,
     "id": "uKngR9rHf2I",
@@ -4849,8 +4881,8 @@
   },
   {
     "channel": "Maria Speaks English",
-    "date_check_failures": 54,
-    "date_checked_at": "2026-11-14T18:00:57.035564+00:00",
+    "date_check_failures": 55,
+    "date_checked_at": "2026-11-15T18:51:17.994285+00:00",
     "date_source": null,
     "duration": null,
     "id": "uqH117fXOCw",
@@ -4865,8 +4897,8 @@
   },
   {
     "channel": "Maria Speaks English",
-    "date_check_failures": 54,
-    "date_checked_at": "2026-11-14T18:01:00.307014+00:00",
+    "date_check_failures": 55,
+    "date_checked_at": "2026-11-15T18:51:19.239143+00:00",
     "date_source": null,
     "duration": null,
     "id": "cDyzGwtoRos",
@@ -4881,8 +4913,8 @@
   },
   {
     "channel": "Maria Speaks English",
-    "date_check_failures": 54,
-    "date_checked_at": "2026-11-14T18:01:01.314093+00:00",
+    "date_check_failures": 55,
+    "date_checked_at": "2026-11-15T18:51:20.808827+00:00",
     "date_source": null,
     "duration": null,
     "id": "1TfEHdcQwvM",
@@ -4897,8 +4929,8 @@
   },
   {
     "channel": "Maria Speaks English",
-    "date_check_failures": 54,
-    "date_checked_at": "2026-11-14T18:01:02.431569+00:00",
+    "date_check_failures": 55,
+    "date_checked_at": "2026-11-15T18:51:21.775807+00:00",
     "date_source": null,
     "duration": null,
     "id": "1wnR6n9NeLU",
@@ -4913,8 +4945,8 @@
   },
   {
     "channel": "Maria Speaks English",
-    "date_check_failures": 54,
-    "date_checked_at": "2026-11-14T18:01:03.483746+00:00",
+    "date_check_failures": 55,
+    "date_checked_at": "2026-11-15T18:51:22.848670+00:00",
     "date_source": null,
     "duration": null,
     "id": "OP8H5dlqrqg",
@@ -4929,8 +4961,8 @@
   },
   {
     "channel": "Maria Speaks English",
-    "date_check_failures": 54,
-    "date_checked_at": "2026-11-14T18:01:04.479201+00:00",
+    "date_check_failures": 55,
+    "date_checked_at": "2026-11-15T18:51:23.859690+00:00",
     "date_source": null,
     "duration": null,
     "id": "2afPxqBy8fk",
@@ -4945,8 +4977,8 @@
   },
   {
     "channel": "Maria Speaks English",
-    "date_check_failures": 54,
-    "date_checked_at": "2026-11-14T18:01:05.683600+00:00",
+    "date_check_failures": 55,
+    "date_checked_at": "2026-11-15T18:51:24.798660+00:00",
     "date_source": null,
     "duration": null,
     "id": "QQuGs4XAhzQ",
@@ -4961,8 +4993,8 @@
   },
   {
     "channel": "Maria Speaks English",
-    "date_check_failures": 54,
-    "date_checked_at": "2026-11-14T18:01:06.571874+00:00",
+    "date_check_failures": 55,
+    "date_checked_at": "2026-11-15T18:51:25.744047+00:00",
     "date_source": null,
     "duration": null,
     "id": "HJVBYGih57o",
@@ -4977,8 +5009,8 @@
   },
   {
     "channel": "Maria Speaks English",
-    "date_check_failures": 54,
-    "date_checked_at": "2026-11-14T18:01:07.574750+00:00",
+    "date_check_failures": 55,
+    "date_checked_at": "2026-11-15T18:51:26.674612+00:00",
     "date_source": null,
     "duration": null,
     "id": "w79hvraoQ84",
@@ -4993,8 +5025,8 @@
   },
   {
     "channel": "Maria Speaks English",
-    "date_check_failures": 54,
-    "date_checked_at": "2026-11-14T18:01:08.744312+00:00",
+    "date_check_failures": 55,
+    "date_checked_at": "2026-11-15T18:51:27.697633+00:00",
     "date_source": null,
     "duration": null,
     "id": "2ej3Yje4Q1Y",
@@ -5009,8 +5041,8 @@
   },
   {
     "channel": "Maria Speaks English",
-    "date_check_failures": 54,
-    "date_checked_at": "2026-11-14T18:01:09.852031+00:00",
+    "date_check_failures": 55,
+    "date_checked_at": "2026-11-15T18:51:28.808384+00:00",
     "date_source": null,
     "duration": null,
     "id": "f0YbzZtbueM",
@@ -5025,8 +5057,8 @@
   },
   {
     "channel": "Maria Speaks English",
-    "date_check_failures": 54,
-    "date_checked_at": "2026-11-14T18:01:10.860154+00:00",
+    "date_check_failures": 55,
+    "date_checked_at": "2026-11-15T18:51:29.870013+00:00",
     "date_source": null,
     "duration": null,
     "id": "8uWM0kj0W7Y",
@@ -5041,8 +5073,8 @@
   },
   {
     "channel": "Maria Speaks English",
-    "date_check_failures": 54,
-    "date_checked_at": "2026-11-14T18:01:12.232802+00:00",
+    "date_check_failures": 55,
+    "date_checked_at": "2026-11-15T18:51:30.764294+00:00",
     "date_source": null,
     "duration": null,
     "id": "xTmIxXrPmZY",
@@ -5057,8 +5089,8 @@
   },
   {
     "channel": "Maria Speaks English",
-    "date_check_failures": 54,
-    "date_checked_at": "2026-11-14T18:01:13.428954+00:00",
+    "date_check_failures": 55,
+    "date_checked_at": "2026-11-15T18:51:31.796849+00:00",
     "date_source": null,
     "duration": null,
     "id": "ozUt5MKbLwI",
@@ -5073,8 +5105,8 @@
   },
   {
     "channel": "Maria Speaks English",
-    "date_check_failures": 54,
-    "date_checked_at": "2026-11-14T18:01:14.414313+00:00",
+    "date_check_failures": 55,
+    "date_checked_at": "2026-11-15T18:51:32.809962+00:00",
     "date_source": null,
     "duration": null,
     "id": "rWc5NiTZH28",
@@ -5089,8 +5121,8 @@
   },
   {
     "channel": "Maria Speaks English",
-    "date_check_failures": 54,
-    "date_checked_at": "2026-11-14T18:01:15.624506+00:00",
+    "date_check_failures": 55,
+    "date_checked_at": "2026-11-15T18:51:33.797271+00:00",
     "date_source": null,
     "duration": null,
     "id": "dFeFzIntE4o",
@@ -5105,8 +5137,8 @@
   },
   {
     "channel": "Maria Speaks English",
-    "date_check_failures": 54,
-    "date_checked_at": "2026-11-14T18:01:16.568063+00:00",
+    "date_check_failures": 55,
+    "date_checked_at": "2026-11-15T18:51:34.796973+00:00",
     "date_source": null,
     "duration": null,
     "id": "kcbKUhoOfRI",
@@ -5121,8 +5153,8 @@
   },
   {
     "channel": "Maria Speaks English",
-    "date_check_failures": 54,
-    "date_checked_at": "2026-11-14T18:01:17.627437+00:00",
+    "date_check_failures": 55,
+    "date_checked_at": "2026-11-15T18:51:36.073806+00:00",
     "date_source": null,
     "duration": null,
     "id": "Nm-QsMy5f7c",
@@ -5137,8 +5169,8 @@
   },
   {
     "channel": "Maria Speaks English",
-    "date_check_failures": 54,
-    "date_checked_at": "2026-11-14T18:01:18.802849+00:00",
+    "date_check_failures": 55,
+    "date_checked_at": "2026-11-15T18:51:37.000810+00:00",
     "date_source": null,
     "duration": null,
     "id": "fk7VTQLilUo",
@@ -5153,8 +5185,8 @@
   },
   {
     "channel": "Maria Speaks English",
-    "date_check_failures": 54,
-    "date_checked_at": "2026-11-14T18:01:20.332956+00:00",
+    "date_check_failures": 55,
+    "date_checked_at": "2026-11-15T18:51:38.398611+00:00",
     "date_source": null,
     "duration": null,
     "id": "ZAkR6bcN9eQ",
@@ -5169,8 +5201,8 @@
   },
   {
     "channel": "Maria Speaks English",
-    "date_check_failures": 54,
-    "date_checked_at": "2026-11-14T18:01:21.668584+00:00",
+    "date_check_failures": 55,
+    "date_checked_at": "2026-11-15T18:51:39.404240+00:00",
     "date_source": null,
     "duration": null,
     "id": "X2LrcezVGkU",
@@ -5185,8 +5217,8 @@
   },
   {
     "channel": "Maria Speaks English",
-    "date_check_failures": 54,
-    "date_checked_at": "2026-11-14T18:01:22.766289+00:00",
+    "date_check_failures": 55,
+    "date_checked_at": "2026-11-15T18:51:40.319181+00:00",
     "date_source": null,
     "duration": null,
     "id": "TmHuMxf9uXo",
@@ -5201,8 +5233,8 @@
   },
   {
     "channel": "Maria Speaks English",
-    "date_check_failures": 54,
-    "date_checked_at": "2026-11-14T18:01:24.038239+00:00",
+    "date_check_failures": 55,
+    "date_checked_at": "2026-11-15T18:51:41.846646+00:00",
     "date_source": null,
     "duration": null,
     "id": "i3fEd25HBCc",
@@ -5217,8 +5249,8 @@
   },
   {
     "channel": "Maria Speaks English",
-    "date_check_failures": 54,
-    "date_checked_at": "2026-11-14T18:01:24.977685+00:00",
+    "date_check_failures": 55,
+    "date_checked_at": "2026-11-15T18:51:42.715486+00:00",
     "date_source": null,
     "duration": null,
     "id": "8ide_gJFLHc",
@@ -5233,24 +5265,8 @@
   },
   {
     "channel": "Maria Speaks English",
-    "date_check_failures": 54,
-    "date_checked_at": "2026-11-14T18:01:25.993325+00:00",
-    "date_source": null,
-    "duration": null,
-    "id": "Vum-2iUmg5A",
-    "kind": "Short",
-    "published": null,
-    "source_positions": {
-      "Short": 326
-    },
-    "thumbnail": "https://i.ytimg.com/vi/Vum-2iUmg5A/hqdefault.jpg",
-    "title": "Hacer algo por postureo… en inglés✌🏻",
-    "url": "https://www.youtube.com/watch?v=Vum-2iUmg5A"
-  },
-  {
-    "channel": "Maria Speaks English",
-    "date_check_failures": 54,
-    "date_checked_at": "2026-11-14T18:01:27.053578+00:00",
+    "date_check_failures": 55,
+    "date_checked_at": "2026-11-15T18:51:50.025163+00:00",
     "date_source": null,
     "duration": null,
     "id": "jl8kJ5y84Og",
@@ -5262,22 +5278,6 @@
     "thumbnail": "https://i.ytimg.com/vi/jl8kJ5y84Og/hqdefault.jpg",
     "title": "¡No digas siempre “I’m fine”! #aprenderingles #shorts #inglesonline",
     "url": "https://www.youtube.com/watch?v=jl8kJ5y84Og"
-  },
-  {
-    "channel": "Maria Speaks English",
-    "date_check_failures": 54,
-    "date_checked_at": "2026-11-14T18:01:28.604927+00:00",
-    "date_source": null,
-    "duration": null,
-    "id": "rdhfWarKs6Q",
-    "kind": "Short",
-    "published": null,
-    "source_positions": {
-      "Short": 328
-    },
-    "thumbnail": "https://i.ytimg.com/vi/rdhfWarKs6Q/hqdefault.jpg",
-    "title": "¡Pon a prueba tu inglés! ¿Qué error hay en la frase? Te espero en comentarios👇🏻",
-    "url": "https://www.youtube.com/watch?v=rdhfWarKs6Q"
   },
   {
     "channel": "Maria Speaks English",
