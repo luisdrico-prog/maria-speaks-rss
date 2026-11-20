@@ -5,8 +5,17 @@
     <link>https://www.youtube.com/@mariaspeaksenglish</link>
     <description>Feed histórico y actualizado de Maria Speaks English: vídeos, Shorts y directos. Conserva la fecha original de publicación y usa relleno histórico rotatorio para Feedly.</description>
     <language>es</language>
-    <lastBuildDate>Thu, 19 Nov 2026 20:36:41 +0000</lastBuildDate>
+    <lastBuildDate>Fri, 20 Nov 2026 07:12:51 +0000</lastBuildDate>
     <atom:link href="feed.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>What does GTA (Grand Theft Auto) mean and how is it pronounced in English? 🎮</title>
+      <link>https://www.youtube.com/watch?v=msmLOVMciG8</link>
+      <guid isPermaLink="false">youtube:msmLOVMciG8</guid>
+      <category>Short</category>
+      <pubDate>Tue, 17 Nov 2026 00:00:00 +0000</pubDate>
+      <description>&lt;p&gt;&lt;strong&gt;Short&lt;/strong&gt;&lt;/p&gt;&lt;p&gt;Publicado originalmente: 17/11/2026 (fecha real)&lt;/p&gt;&lt;p&gt;Duración: 1:06&lt;/p&gt;&lt;p&gt;&lt;a href="https://www.youtube.com/watch?v=msmLOVMciG8"&gt;Abrir en YouTube&lt;/a&gt;&lt;/p&gt;</description>
+      <media:thumbnail url="https://i.ytimg.com/vi/msmLOVMciG8/hqdefault.jpg" />
+    </item>
     <item>
       <title>🔞 INGLÉS para ADULTOS 🔞 | Haciendo la cama</title>
       <link>https://www.youtube.com/watch?v=uBZ7U8aNNq8</link>
@@ -386,7 +395,7 @@
       <media:thumbnail url="https://i.ytimg.com/vi/tSaQdF2LSok/hqdefault.jpg" />
     </item>
     <item>
-      <title>I'm going to the premiere of THE DEVIL WEARS PRADA 2 in Milan | Vlog</title>
+      <title>Voy a la PREMIERE de THE DEVIL WEARS PRADA 2 en Milán | Vlog</title>
       <link>https://www.youtube.com/watch?v=chWmluB7wuM</link>
       <guid isPermaLink="false">youtube:chWmluB7wuM</guid>
       <category>Short</category>
@@ -656,7 +665,7 @@
       <media:thumbnail url="https://i.ytimg.com/vi/KUvviNZsF4I/hqdefault.jpg" />
     </item>
     <item>
-      <title>Tutorial to LEARN ENGLISH with LUX by ROSALÍA ✨🪽</title>
+      <title>Tutorial para APRENDER INGLÉS con LUX de ROSALÍA ✨🪽</title>
       <link>https://www.youtube.com/watch?v=RGL6q9eKZ_8</link>
       <guid isPermaLink="false">youtube:RGL6q9eKZ_8</guid>
       <category>Short</category>
@@ -672,15 +681,6 @@
       <pubDate>Wed, 12 Nov 2025 14:53:47 +0000</pubDate>
       <description>&lt;p&gt;&lt;strong&gt;Short&lt;/strong&gt;&lt;/p&gt;&lt;p&gt;Publicado originalmente: 12/11/2025 (fecha real)&lt;/p&gt;&lt;p&gt;Duración: 1:55&lt;/p&gt;&lt;p&gt;&lt;a href="https://www.youtube.com/watch?v=5s1V5J8d2pE"&gt;Abrir en YouTube&lt;/a&gt;&lt;/p&gt;</description>
       <media:thumbnail url="https://i.ytimg.com/vi/5s1V5J8d2pE/hqdefault.jpg" />
-    </item>
-    <item>
-      <title>I traveled around ENGLAND in 6 days looking for TV series locations 🎬🔎</title>
-      <link>https://www.youtube.com/watch?v=N77rWhMJrzc</link>
-      <guid isPermaLink="false">youtube:N77rWhMJrzc</guid>
-      <category>Short</category>
-      <pubDate>Wed, 12 Nov 2025 11:34:59 +0000</pubDate>
-      <description>&lt;p&gt;&lt;strong&gt;Short&lt;/strong&gt;&lt;/p&gt;&lt;p&gt;Publicado originalmente: 12/11/2025 (fecha real)&lt;/p&gt;&lt;p&gt;Duración: 1:05&lt;/p&gt;&lt;p&gt;&lt;a href="https://www.youtube.com/watch?v=N77rWhMJrzc"&gt;Abrir en YouTube&lt;/a&gt;&lt;/p&gt;</description>
-      <media:thumbnail url="https://i.ytimg.com/vi/N77rWhMJrzc/hqdefault.jpg" />
     </item>
   </channel>
 </rss>
